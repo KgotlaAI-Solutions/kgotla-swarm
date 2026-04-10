@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-10",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the government and energy sectors, with the National Treasury's digital transformation initiatives and NERSA's public hearings on electricity tariffs presenting potential avenues for Kgotla AI's services. Meanwhile, the mining sector is experiencing a shift towards digitalization and automation, with companies like Alphamin and Kemcore making notable announcements.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit a proposal for AI and data analytics solutions",
+      "deadline": "2023-04-01"
+    },
+    {
+      "title": "NERSA Electricity Tariff Application",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Attend the public hearing and network with stakeholders",
+      "deadline": "2024-06-30"
+    },
+    {
+      "title": "SARS AI-Powered Tax Compliance",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R200M",
+      "action": "Reach out to SARS to discuss potential collaboration",
+      "deadline": "2024-12-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Rising Electricity Costs",
+      "sector": "mining",
+      "impact": "Decreased competitiveness and potential project delays",
+      "mitigation": "Offer energy management solutions to mining companies"
+    },
+    {
+      "title": "Barrick Mining Corp's Shift in Focus",
+      "sector": "mining",
+      "impact": "Reduced demand for AI services in the mining sector",
+      "mitigation": "Diversify services to other sectors, such as energy and government"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Electricity tariff applications",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "SARS",
+      "reason": "AI-powered tax compliance",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
