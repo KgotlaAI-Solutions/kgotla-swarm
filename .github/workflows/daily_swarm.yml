@@ -2,8 +2,11 @@ name: Kgotla Daily Intelligence Swarm
 
 on:
   schedule:
-    - cron: '0 4 * * *'   # 06:00 SAST every morning
-  workflow_dispatch:        # lets you run it manually anytime
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   run-swarm:
@@ -12,10 +15,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
