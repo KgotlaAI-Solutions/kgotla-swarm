@@ -1,36 +1,24 @@
 """
 Kgotla AI Intelligence Swarm — Main Entry Point
-
-Run manually:      python main.py
-Run on Railway:    Set this as the start command. Add a cron job at 06:00 SAST daily.
-
-Required env vars (set in Railway or .env):
-  GROQ_API_KEY
-  GOOGLE_AI_API_KEY
-  HF_API_TOKEN
-  SUPABASE_URL          (optional — for database storage)
-  SUPABASE_ANON_KEY     (optional)
+Run: python main.py
+GitHub Actions: runs daily at 06:00 SAST via cron 0 4 * * *
 """
 
 import json
 import os
 import datetime
+import pytz
 
 from governor_agent import GovernorAgent
 from sector_agents import MiningAgent, EnergyAgent, GovernmentAgent, EnterpriseAgent
 
 
 def push_to_supabase(brief: dict):
-    """
-    Stores the daily brief in Supabase free tier.
-    Table: intelligence_briefs (id, date, brief_json, created_at)
-    """
-    url  = os.environ.get("SUPABASE_URL", "")
-    key  = os.environ.get("SUPABASE_ANON_KEY", "")
+    url = os.environ.get("SUPABASE_URL", "")
+    key = os.environ.get("SUPABASE_ANON_KEY", "")
     if not url or not key:
-        print("[Main] Supabase not configured — skipping DB push.")
+        print("[Main] Supabase not configured — skipping.")
         return
-
     import requests
     resp = requests.post(
         f"{url}/rest/v1/intelligence_briefs",
@@ -42,31 +30,29 @@ def push_to_supabase(brief: dict):
         },
         json={"date": brief.get("date"), "brief_json": json.dumps(brief)}
     )
-    if resp.status_code in (200, 201):
-        print("[Main] Brief stored in Supabase.")
-    else:
-        print(f"[Main] Supabase push failed: {resp.status_code} {resp.text}")
+    print("[Main] Supabase push:", resp.status_code)
 
 
 def save_brief_locally(brief: dict):
-    """Saves brief as JSON file for local debugging / Cloudflare Worker to serve."""
     os.makedirs("briefs", exist_ok=True)
-    filename = f"briefs/{brief.get('date', 'latest')}.json"
-    with open(filename, "w") as f:
+    date_str = brief.get("date", "latest")
+    with open(f"briefs/{date_str}.json", "w") as f:
         json.dump(brief, f, indent=2)
-    # Always keep a 'latest.json' for the dashboard
     with open("briefs/latest.json", "w") as f:
         json.dump(brief, f, indent=2)
-    print(f"[Main] Brief saved to {filename}")
+    print(f"[Main] Brief saved: briefs/{date_str}.json")
 
 
 def main():
+    sast        = pytz.timezone("Africa/Johannesburg")
+    today_sast  = datetime.datetime.now(sast).strftime("%Y-%m-%d")
+    now_str     = datetime.datetime.now(sast).strftime("%Y-%m-%d %H:%M:%S")
+
     print("=" * 60)
     print("  KGOTLA AI INTELLIGENCE SWARM — DAILY CYCLE")
-    print(f"  {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S SAST')}")
+    print(f"  {now_str} SAST")
     print("=" * 60)
 
-    # Instantiate all sector agents
     agents = {
         "mining":     MiningAgent(),
         "energy":     EnergyAgent(),
@@ -74,22 +60,17 @@ def main():
         "enterprise": EnterpriseAgent(),
     }
 
-    # Instantiate and run Governor
-    governor = GovernorAgent(sector_agents=agents)
-    brief = governor.run_daily_brief()
+    governor = GovernorAgent(sector_agents=agents, today=today_sast)
+    brief    = governor.run_daily_brief()
 
-    # Output
     print("\n" + "─" * 60)
     print("DAILY INTELLIGENCE BRIEF:")
     print(json.dumps(brief, indent=2))
     print("─" * 60)
 
-    # WhatsApp digest
-    digest = governor.format_whatsapp_digest(brief)
     print("\nWHATSAPP DIGEST:\n")
-    print(digest)
+    print(governor.format_whatsapp_digest(brief))
 
-    # Persist
     save_brief_locally(brief)
     push_to_supabase(brief)
 
