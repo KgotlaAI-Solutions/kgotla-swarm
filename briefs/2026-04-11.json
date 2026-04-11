@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-11",
+  "executive_summary": "The South African government has announced a R1.5 billion budget for digital transformation initiatives, and Eskom has agreed to a 5-year power tariff with the South African ferrochrome industry. These developments present opportunities for Kgotla AI to offer services in the mining, energy, and government sectors.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Tender with SITA",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R2.5M",
+      "action": "Review and prepare a proposal for the SITA RFP for artificial intelligence and machine learning services",
+      "deadline": "2024-06-30"
+    },
+    {
+      "title": "Eskom Power Tariff Agreement",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Research and explore potential partnerships with Eskom and the ferrochrome industry",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Limited Information on Mining Sector Digitalisation",
+      "sector": "mining",
+      "impact": "Kgotla AI may miss out on potential opportunities in the mining sector due to lack of information",
+      "mitigation": "Establish relationships with key players in the mining sector to gather more information on digitalisation efforts"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "2"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To discuss the RFP for artificial intelligence and machine learning services and potential partnership opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To explore potential partnerships and opportunities related to the power tariff agreement with the ferrochrome industry",
+      "contact_approach": "phone"
+    }
+  ]
+}
