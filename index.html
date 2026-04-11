@@ -20,4 +20,238 @@ body{background:var(--obs);color:var(--text);font-family:'DM Sans',sans-serif;fo
 body::before{content:'';position:fixed;inset:0;
   background-image:linear-gradient(rgba(201,168,76,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(201,168,76,0.025) 1px,transparent 1px);
   background-size:48px 48px;pointer-events:none;z-index:0;}
-body::after{content:'';positi
+body::after{content:'';position:fixed;inset:0;
+  background:radial-gradient(ellipse at center,transparent 40%,rgba(0,0,0,0.7) 100%);
+  pointer-events:none;z-index:0;}
+.wrap{position:relative;z-index:1;max-width:1140px;margin:0 auto;padding:0 28px 100px;}
+header{border-bottom:1px solid var(--border);padding:28px 0 24px;display:flex;align-items:center;justify-content:space-between;gap:16px;}
+.logo{display:flex;align-items:center;gap:14px;}
+.hex{width:46px;height:46px;background:var(--gold);clip-path:polygon(50% 0%,100% 25%,100% 75%,50% 100%,0% 75%,0% 25%);display:flex;align-items:center;justify-content:center;font-family:'Cormorant Garamond',serif;font-weight:700;font-size:22px;color:var(--obs);flex-shrink:0;transition:transform .3s;}
+.hex:hover{transform:rotate(30deg);}
+.brand{font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:600;color:var(--gold);letter-spacing:.04em;}
+.brand-sub{font-size:10px;color:var(--text2);letter-spacing:.14em;text-transform:uppercase;margin-top:2px;}
+.header-r{text-align:right;}
+#sast-clock{font-family:'Cormorant Garamond',serif;font-size:22px;color:var(--gold);letter-spacing:.04em;}
+.brief-date-label{font-size:10px;color:var(--text3);letter-spacing:.1em;text-transform:uppercase;margin-top:2px;}
+.live-indicator{display:inline-flex;align-items:center;gap:6px;font-size:10px;color:var(--text2);letter-spacing:.1em;text-transform:uppercase;margin-top:6px;}
+.live-indicator::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--gold);animation:pulse 2s ease-in-out infinite;}
+@keyframes pulse{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(201,168,76,.4)}50%{opacity:.4;box-shadow:0 0 0 4px rgba(201,168,76,0)}}
+#loading{display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:60vh;gap:24px;}
+.loader-ring{width:64px;height:64px;border:1.5px solid var(--border);border-top-color:var(--gold);border-radius:50%;animation:spin 1.2s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg)}}
+#loading p{font-size:11px;color:var(--text3);letter-spacing:.14em;text-transform:uppercase;}
+.fade-in{opacity:0;transform:translateY(16px);animation:fadeUp .5s ease forwards;}
+@keyframes fadeUp{to{opacity:1;transform:translateY(0)}}
+.summary{margin:36px 0 28px;padding:28px 32px;border:1px solid var(--border2);border-left:3px solid var(--gold);background:var(--obs2);position:relative;}
+.summary::before{content:'Intelligence Summary';position:absolute;top:-9px;left:20px;background:var(--obs);padding:0 10px;font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold);}
+.summary p{font-family:'Cormorant Garamond',serif;font-size:20px;line-height:1.75;color:var(--text);}
+.scores{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:40px;}
+.score-card{background:var(--obs3);border:1px solid var(--border);padding:18px 16px 14px;text-align:center;position:relative;overflow:hidden;transition:border-color .2s;}
+.score-card:hover{border-color:var(--border2);}
+.score-bar{position:absolute;bottom:0;left:0;height:2px;background:var(--gold);width:0;transition:width 1.2s cubic-bezier(.4,0,.2,1);}
+.score-label{font-size:9px;letter-spacing:.16em;text-transform:uppercase;color:var(--text2);margin-bottom:10px;}
+.score-num{font-family:'Cormorant Garamond',serif;font-size:42px;font-weight:700;color:var(--gold);line-height:1;}
+.score-sub{font-size:9px;color:var(--text3);margin-top:4px;text-transform:uppercase;letter-spacing:.08em;}
+.section-title{font-size:9px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold-d);margin-bottom:16px;display:flex;align-items:center;gap:14px;}
+.section-title::after{content:'';flex:1;height:1px;background:var(--border);}
+.opps{display:flex;flex-direction:column;gap:10px;margin-bottom:40px;}
+.opp-card{background:var(--obs3);border:1px solid var(--border);padding:22px 26px;display:grid;grid-template-columns:8px 1fr auto;gap:18px;align-items:start;transition:border-color .2s,background .2s;cursor:pointer;position:relative;overflow:hidden;}
+.opp-card::before{content:'';position:absolute;inset:0;background:var(--gold-faint);opacity:0;transition:opacity .2s;}
+.opp-card:hover{border-color:var(--border2);}
+.opp-card:hover::before{opacity:1;}
+.urgency-dot{width:8px;height:8px;border-radius:50%;margin-top:7px;flex-shrink:0;}
+.urgency-dot.critical{background:var(--red);box-shadow:0 0 10px var(--red);}
+.urgency-dot.high{background:var(--orange);box-shadow:0 0 10px var(--orange);}
+.urgency-dot.medium{background:var(--gold);}
+.opp-title{font-family:'Cormorant Garamond',serif;font-size:19px;font-weight:600;color:var(--text);margin-bottom:5px;}
+.opp-meta{font-size:10px;color:var(--text2);letter-spacing:.08em;text-transform:uppercase;margin-bottom:10px;}
+.opp-meta span{color:var(--gold-d);}
+.opp-action{font-size:13px;color:var(--text2);border-left:2px solid var(--border2);padding-left:12px;line-height:1.6;}
+.opp-right{text-align:right;min-width:120px;}
+.opp-value{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:700;color:var(--gold);white-space:nowrap;}
+.opp-deadline{font-size:10px;color:var(--text3);margin-top:4px;}
+.opp-btn{display:inline-flex;align-items:center;gap:6px;margin-top:12px;padding:6px 14px;border:1px solid var(--gold-d);background:transparent;color:var(--gold);font-size:10px;letter-spacing:.1em;text-transform:uppercase;cursor:pointer;transition:all .2s;font-family:'DM Sans',sans-serif;}
+.opp-btn:hover{background:var(--gold);color:var(--obs);}
+.threats{display:flex;flex-direction:column;gap:10px;margin-bottom:40px;}
+.threat-card{background:var(--obs3);border:1px solid rgba(192,57,43,.2);border-left:3px solid var(--red);padding:18px 22px;}
+.threat-title{font-family:'Cormorant Garamond',serif;font-size:17px;font-weight:600;color:#E07060;margin-bottom:6px;}
+.threat-impact{font-size:13px;color:var(--text2);margin-bottom:10px;line-height:1.6;}
+.threat-mit{font-size:12px;color:var(--text3);padding:8px 14px;background:rgba(201,168,76,.03);border:1px solid var(--border);}
+.threat-mit::before{content:'↳ Mitigation: ';color:var(--gold-d);font-weight:500;}
+.outreach{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:10px;margin-bottom:40px;}
+.out-card{background:var(--obs3);border:1px solid var(--border);padding:18px 20px;display:flex;gap:14px;align-items:start;transition:border-color .2s;cursor:pointer;}
+.out-card:hover{border-color:var(--border2);}
+.out-icon{width:36px;height:36px;flex-shrink:0;background:var(--obs5);border:1px solid var(--border2);display:flex;align-items:center;justify-content:center;font-size:15px;color:var(--gold);}
+.out-entity{font-family:'Cormorant Garamond',serif;font-size:17px;font-weight:600;color:var(--text);}
+.out-reason{font-size:12px;color:var(--text2);margin-top:4px;line-height:1.5;}
+.out-approach{display:inline-block;margin-top:8px;font-size:9px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);border:1px solid var(--gold-d);padding:2px 8px;}
+#modal-bg{display:none;position:fixed;inset:0;background:rgba(0,0,0,.85);z-index:100;align-items:center;justify-content:center;padding:24px;}
+#modal-bg.open{display:flex;}
+#modal{background:var(--obs2);border:1px solid var(--border2);width:100%;max-width:760px;max-height:88vh;overflow-y:auto;}
+.modal-header{padding:24px 28px 20px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:start;gap:16px;position:sticky;top:0;background:var(--obs2);z-index:1;}
+.modal-title{font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;color:var(--gold);}
+.modal-sub{font-size:11px;color:var(--text2);margin-top:4px;}
+.modal-close{background:none;border:none;color:var(--text2);font-size:22px;cursor:pointer;padding:0 4px;line-height:1;transition:color .2s;}
+.modal-close:hover{color:var(--text);}
+.modal-body{padding:24px 28px;}
+#proposal-output{font-size:14px;line-height:1.8;color:var(--text);white-space:pre-wrap;min-height:200px;}
+#proposal-output.generating{color:var(--text2);}
+.proposal-actions{margin-top:20px;display:flex;gap:10px;flex-wrap:wrap;}
+.p-btn{padding:8px 20px;font-size:11px;letter-spacing:.1em;text-transform:uppercase;cursor:pointer;transition:all .2s;font-family:'DM Sans',sans-serif;border-radius:0;}
+.p-btn-primary{background:var(--gold);color:var(--obs);border:1px solid var(--gold);}
+.p-btn-primary:hover{background:var(--gold-l);}
+.p-btn-ghost{background:transparent;color:var(--gold);border:1px solid var(--gold-d);}
+.p-btn-ghost:hover{background:var(--gold-faint);}
+footer{border-top:1px solid var(--border);padding-top:24px;display:flex;align-items:center;justify-content:space-between;font-size:10px;color:var(--text3);letter-spacing:.08em;flex-wrap:wrap;gap:8px;}
+footer a{color:var(--gold-d);text-decoration:none;}
+footer a:hover{color:var(--gold);}
+@media(max-width:680px){
+  .scores{grid-template-columns:repeat(2,1fr);}
+  .opp-card{grid-template-columns:8px 1fr;}
+  .opp-right{display:none;}
+  header{flex-direction:column;align-items:flex-start;}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="logo">
+    <div class="hex">K</div>
+    <div>
+      <div class="brand">Kgotla AI</div>
+      <div class="brand-sub">Intelligence Operations Centre</div>
+    </div>
+  </div>
+  <div class="header-r">
+    <div id="sast-clock">--:--:--</div>
+    <div class="brief-date-label" id="brief-date-label">Loading brief...</div>
+    <div class="live-indicator">Live · Updates 06:00 SAST</div>
+  </div>
+</header>
+<div id="loading">
+  <div class="loader-ring"></div>
+  <p>Fetching intelligence brief...</p>
+</div>
+<div id="content" style="display:none">
+  <div class="summary fade-in" style="animation-delay:.1s"><p id="exec-summary"></p></div>
+  <div class="scores fade-in" style="animation-delay:.2s" id="scores"></div>
+  <div class="fade-in" style="animation-delay:.3s">
+    <div class="section-title">Top Opportunities — Click to Generate Proposal</div>
+    <div class="opps" id="opps"></div>
+  </div>
+  <div class="fade-in" style="animation-delay:.4s">
+    <div class="section-title">Threats to Monitor</div>
+    <div class="threats" id="threats"></div>
+  </div>
+  <div class="fade-in" style="animation-delay:.5s">
+    <div class="section-title">Recommended Outreach Today</div>
+    <div class="outreach" id="outreach"></div>
+  </div>
+</div>
+<footer>
+  <span>Kgotla AI Consulting PTY Ltd · <a href="https://kgotlaai.co.za" target="_blank">kgotlaai.co.za</a> · mahlo@kgotlaai.co.za</span>
+  <span id="footer-date">Intelligence Swarm v1 · B-BBEE Compliant · IBM SA Endorsed</span>
+</footer>
+</div>
+<div id="modal-bg">
+  <div id="modal">
+    <div class="modal-header">
+      <div>
+        <div class="modal-title" id="modal-title">Generating Proposal...</div>
+        <div class="modal-sub" id="modal-sub"></div>
+      </div>
+      <button class="modal-close" onclick="closeModal()">✕</button>
+    </div>
+    <div class="modal-body">
+      <div id="proposal-output" class="generating">Kgotla AI is generating your proposal...</div>
+      <div class="proposal-actions" id="proposal-actions" style="display:none">
+        <button class="p-btn p-btn-primary" onclick="copyProposal()">Copy Proposal</button>
+        <button class="p-btn p-btn-ghost" onclick="closeModal()">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+const BRIEF_URL="https://raw.githubusercontent.com/KgotlaAI-Solutions/kgotla-swarm/refs/heads/main/briefs/latest.json?cache="+Date.now();
+const GROQ_URL="https://api.groq.com/openai/v1/chat/completions";
+function updateClock(){const now=new Date().toLocaleTimeString("en-ZA",{timeZone:"Africa/Johannesburg",hour:"2-digit",minute:"2-digit",second:"2-digit"});document.getElementById("sast-clock").textContent=now+" SAST";}
+updateClock();setInterval(updateClock,1000);
+async function loadBrief(){try{const res=await fetch(BRIEF_URL);if(!res.ok)throw new Error("HTTP "+res.status);const brief=await res.json();render(brief);}catch(e){document.getElementById("loading").innerHTML=`<p style="color:var(--red);font-size:13px;">Could not load brief: ${e.message}<br><br><span style="color:var(--text2)">Ensure the GitHub repo is public and the swarm has run at least once.</span></p>`;}}
+function render(b){
+  document.getElementById("loading").style.display="none";
+  document.getElementById("content").style.display="block";
+  const d=new Date(b.date+"T00:00:00");
+  document.getElementById("brief-date-label").textContent=d.toLocaleDateString("en-ZA",{weekday:"long",year:"numeric",month:"long",day:"numeric"});
+  document.getElementById("footer-date").textContent="Brief: "+b.date+" · Intelligence Swarm v1 · IBM SA Endorsed";
+  document.getElementById("exec-summary").textContent=b.executive_summary;
+  const scoresEl=document.getElementById("scores");
+  const labels={mining:"Mining",energy:"Energy",government:"Government",enterprise:"Enterprise"};
+  Object.entries(b.sector_scores||{}).forEach(([sector,score],i)=>{
+    const pct=(parseInt(score)/10)*100;
+    const card=document.createElement("div");card.className="score-card";
+    card.innerHTML=`<div class="score-label">${labels[sector]||sector}</div><div class="score-num">${score}</div><div class="score-sub">Activity / 10</div><div class="score-bar" id="bar-${i}"></div>`;
+    scoresEl.appendChild(card);
+    setTimeout(()=>{document.getElementById("bar-"+i).style.width=pct+"%";},300+i*100);
+  });
+  const oppsEl=document.getElementById("opps");
+  (b.top_opportunities||[]).forEach((opp,i)=>{
+    const urgency=(opp.urgency||"medium").toLowerCase();
+    const card=document.createElement("div");card.className="opp-card";
+    card.innerHTML=`<div class="urgency-dot ${urgency}"></div><div><div class="opp-title">${opp.title}</div><div class="opp-meta"><span>${(opp.sector||"").toUpperCase()}</span> · ${urgency.toUpperCase()} URGENCY</div><div class="opp-action">${opp.action}</div><button class="opp-btn" onclick="generateProposal(event,${i})"><span>⚡</span> Generate Proposal</button></div><div class="opp-right"><div class="opp-value">${opp.value_estimate_zar||"—"}</div><div class="opp-deadline">${opp.deadline?"By "+opp.deadline:"Open deadline"}</div></div>`;
+    oppsEl.appendChild(card);
+  });
+  const threatsEl=document.getElementById("threats");
+  (b.top_threats||[]).forEach(t=>{
+    const card=document.createElement("div");card.className="threat-card";
+    card.innerHTML=`<div class="threat-title">${t.title}</div><div class="threat-impact">${t.impact}</div><div class="threat-mit">${t.mitigation}</div>`;
+    threatsEl.appendChild(card);
+  });
+  const icons={email:"✉",phone:"☎",linkedin:"in",tender_portal:"⊞"};
+  const outEl=document.getElementById("outreach");
+  (b.recommended_outreach||[]).forEach(r=>{
+    const approach=(r.contact_approach||"email").toLowerCase();
+    const card=document.createElement("div");card.className="out-card";
+    card.innerHTML=`<div class="out-icon">${icons[approach]||"→"}</div><div><div class="out-entity">${r.entity}</div><div class="out-reason">${r.reason}</div><span class="out-approach">${approach}</span></div>`;
+    card.onclick=()=>handleOutreach(r);
+    outEl.appendChild(card);
+  });
+  window._brief=b;
+}
+function handleOutreach(r){
+  const approach=(r.contact_approach||"email").toLowerCase();
+  if(approach==="email"){const subject=encodeURIComponent(`Kgotla AI — AI Solutions for ${r.entity}`);const body=encodeURIComponent(`Good day,\n\nI am Mahlomola Kgotleng, Founder and Director of Kgotla AI Consulting PTY Ltd — a 100% Black-owned, B-BBEE compliant, IBM SA endorsed AI consultancy specialising in Industrial Agentic AI.\n\nI would welcome the opportunity to discuss how Kgotla AI can support ${r.entity} in: ${r.reason}\n\nKind regards,\nMahlo Kgotleng\nkgotlaai.co.za | mahlo@kgotlaai.co.za`);window.open(`mailto:?subject=${subject}&body=${body}`);}
+  else if(approach==="linkedin"){window.open("https://www.linkedin.com/search/results/companies/?keywords="+encodeURIComponent(r.entity),"_blank");}
+  else if(approach==="tender_portal"){window.open("https://www.etenders.gov.za","_blank");}
+}
+async function generateProposal(e,idx){
+  e.stopPropagation();
+  const opp=(window._brief||{}).top_opportunities?.[idx];if(!opp)return;
+  document.getElementById("modal-title").textContent=opp.title;
+  document.getElementById("modal-sub").textContent=(opp.sector||"").toUpperCase()+" · "+(opp.value_estimate_zar||"");
+  document.getElementById("proposal-output").className="generating";
+  document.getElementById("proposal-output").textContent="⚡ Kgotla AI Intelligence Swarm is generating your proposal...";
+  document.getElementById("proposal-actions").style.display="none";
+  document.getElementById("modal-bg").classList.add("open");
+  try{
+    document.getElementById("proposal-output").className="";
+    document.getElementById("proposal-output").textContent=generateProposalTemplate(opp);
+    document.getElementById("proposal-actions").style.display="flex";
+  }catch(err){
+    document.getElementById("proposal-output").textContent=generateProposalTemplate(opp);
+    document.getElementById("proposal-output").className="";
+    document.getElementById("proposal-actions").style.display="flex";
+  }
+}
+function generateProposalTemplate(opp){
+  const today=new Date().toLocaleDateString("en-ZA",{day:"numeric",month:"long",year:"numeric"});
+  return `KGOTLA AI CONSULTING PTY LTD\nExecutive Proposal — ${today}\n────────────────────────────────────────────────────\n\nOPPORTUNITY: ${opp.title}\nSector: ${(opp.sector||"").toUpperCase()} | Estimated Value: ${opp.value_estimate_zar||"TBD"}\n\n────────────────────────────────────────────────────\n1. EXECUTIVE SUMMARY\n\nKgotla AI Consulting is a 100% Black-owned, B-BBEE Level 1 compliant, IBM SA endorsed\nAI consultancy specialising in Industrial Agentic AI for South Africa's mining, energy,\nand government sectors. We are positioned to deliver measurable AI-driven value for\n${opp.title} with immediate effect.\n\n────────────────────────────────────────────────────\n2. THE OPPORTUNITY\n\n${opp.action}\n\nThis initiative represents a strategic inflection point. Organisations that deploy\nagentic AI now will define the competitive standard for the next decade in the\nSouth African ${opp.sector} sector.\n\n────────────────────────────────────────────────────\n3. OUR SOLUTION\n\nKgotla AI proposes deployment of our Industrial Agentic AI stack — built on IBM\nwatsonx Orchestrate and MCP (Model Context Protocol) technology — to deliver:\n\n  • Autonomous multi-agent intelligence gathering and synthesis\n  • Real-time procurement and regulatory monitoring\n  • AI-powered document processing and compliance automation\n  • Seamless integration with existing enterprise systems\n\nOur stack is fully sovereign — deployable on-premises or on SA-based cloud\ninfrastructure, ensuring full POPIA compliance and data residency.\n\n────────────────────────────────────────────────────\n4. WHY KGOTLA AI\n\n  ✓ 100% Black-owned — B-BBEE Level 1 compliant\n  ✓ IBM SA endorsed via Pinnacle Micro Distribution\n  ✓ 11 IBM watsonx certifications including Orchestrate specialist\n  ✓ Active AI training programme — 150+ learners in 2026\n  ✓ Based in Vereeniging, Gauteng — serving SA markets from within SA\n\n────────────────────────────────────────────────────\n5. PROPOSED NEXT STEP\n\nWe propose a 30-minute discovery call this week to present a tailored\nproof-of-concept scoped specifically for ${opp.title}.\n\n────────────────────────────────────────────────────\nCONTACT\n\nMahlomola (Mahlo) Kgotleng\nFounder & Director, Kgotla AI Consulting PTY Ltd\nmahlo@kgotlaai.co.za | kgotlaai.co.za\nVereeniging, Gauteng, South Africa\n────────────────────────────────────────────────────`;
+}
+function copyProposal(){const text=document.getElementById("proposal-output").textContent;navigator.clipboard.writeText(text).then(()=>{const btn=document.querySelector(".p-btn-primary");btn.textContent="Copied ✓";setTimeout(()=>btn.textContent="Copy Proposal",2000);});}
+function closeModal(){document.getElementById("modal-bg").classList.remove("open");}
+document.getElementById("modal-bg").addEventListener("click",function(e){if(e.target===this)closeModal();});
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();});
+loadBrief();
+</script>
+</body>
+</html>
