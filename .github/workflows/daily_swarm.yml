@@ -34,9 +34,10 @@ jobs:
 
       - name: Save brief to repo
         run: |
-          git config user.name "Kgotla Swarm Bot"
+          git config user.name "Kgotla   Swarm Bot"
           git config user.email "mahlo@kgotlaai.co.za"
+          git fetch origin main
+          git reset --hard origin/main
           git add briefs/
           git diff --staged --quiet || git commit -m "Daily brief $(date +%Y-%m-%d)"
-          git pull --rebase origin main
-          git push
+          git push     
