@@ -1,32 +1,20 @@
 """
 Kgotla AI Intelligence Swarm — Free Model Router
 Routes tasks to the right free AI model based on task complexity and type.
-
-Free Models Used:
-- Groq (LLaMA 3.3 70B)       → Fast reasoning, agent decisions, summaries
-- Google AI Studio (Gemini 1.5 Flash) → Long documents, tender PDFs, 100+ pages
-- HuggingFace Inference (Mistral 7B)  → Lightweight extraction, classification
-- HuggingFace Inference (IBM Granite) → Enterprise RAG, compliance, structured data
-
-Environment Variables Required:
-    GROQ_API_KEY          → https://console.groq.com/keys (free)
-    GOOGLE_AI_API_KEY     → https://aistudio.google.com/app/apikey (free)
-    HF_API_TOKEN          → https://huggingface.co/settings/tokens (free)
 """
 
 import os
-import json
 import requests
 from enum import Enum
 from dataclasses import dataclass
 
 
 class TaskType(Enum):
-    REASONING       = "reasoning"       # Agent decisions, multi-step logic
-    LONG_DOCUMENT   = "long_document"   # Tender docs, reports >20 pages
-    EXTRACTION      = "extraction"      # Pull structured data from text
-    ENTERPRISE_RAG  = "enterprise_rag"  # Compliance, IBM-grade structured output
-    SUMMARIZATION   = "summarization"   # News, press releases, brief summaries
+    REASONING      = "reasoning"
+    LONG_DOCUMENT  = "long_document"
+    EXTRACTION     = "extraction"
+    ENTERPRISE_RAG = "enterprise_rag"
+    SUMMARIZATION  = "summarization"
 
 
 @dataclass
@@ -40,35 +28,26 @@ class ModelResponse:
 
 
 class FreeModelRouter:
-    """
-    Routes AI tasks to the best available free model.
-    Falls back to next available model if one fails or rate-limits.
-    """
-
-    GROQ_URL    = "https://api.groq.com/openai/v1/chat/completions"
-    GOOGLE_URL  = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
-    HF_URL      = "https://api-inference.huggingface.co/models/{model}"
+    GROQ_URL   = "https://api.groq.com/openai/v1/chat/completions"
+    GOOGLE_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent"
+    HF_URL     = "https://api-inference.huggingface.co/models/{model}"
 
     ROUTING_RULES = {
-        TaskType.REASONING:       ["groq",    "google",  "hf_mistral"],
-        TaskType.LONG_DOCUMENT:   ["google",  "groq",    "hf_mistral"],
-        TaskType.EXTRACTION:      ["hf_mistral", "groq", "google"],
-        TaskType.ENTERPRISE_RAG:  ["hf_granite", "groq", "google"],
-        TaskType.SUMMARIZATION:   ["groq",    "hf_mistral", "google"],
+        TaskType.REASONING:      ["groq",       "google",     "hf_mistral"],
+        TaskType.LONG_DOCUMENT:  ["google",     "groq",       "hf_mistral"],
+        TaskType.EXTRACTION:     ["hf_mistral", "groq",       "google"],
+        TaskType.ENTERPRISE_RAG: ["hf_granite", "groq",       "google"],
+        TaskType.SUMMARIZATION:  ["groq",       "hf_mistral", "google"],
     }
 
     def __init__(self):
-        self.groq_key    = os.environ.get("GROQ_API_KEY", "")
-        self.google_key  = os.environ.get("GOOGLE_AI_API_KEY", "")
-        self.hf_token    = os.environ.get("HF_API_TOKEN", "")
+        self.groq_key   = os.environ.get("GROQ_API_KEY", "")
+        self.google_key = os.environ.get("GOOGLE_AI_API_KEY", "")
+        self.hf_token   = os.environ.get("HF_API_TOKEN", "")
 
     def route(self, prompt: str, task_type: TaskType, system: str = "", max_tokens: int = 1024) -> ModelResponse:
-        """
-        Main routing method. Tries models in priority order, falls back on failure.
-        """
-        priority = self.ROUTING_RULES.get(task_type, ["groq", "google", "hf_mistral"])
+        priority   = self.ROUTING_RULES.get(task_type, ["groq", "google", "hf_mistral"])
         last_error = ""
-
         for model_key in priority:
             try:
                 if model_key == "groq":
@@ -83,18 +62,13 @@ class FreeModelRouter:
                 last_error = str(e)
                 print(f"[Router] {model_key} failed: {e}. Trying next...")
                 continue
-
-        return ModelResponse(
-            model="none", task_type=task_type.value,
-            content="", success=False, error=last_error
-        )
+        return ModelResponse(model="none", task_type=task_type.value, content="", success=False, error=last_error)
 
     def _call_groq(self, prompt: str, system: str, max_tokens: int) -> ModelResponse:
         messages = []
         if system:
             messages.append({"role": "system", "content": system})
         messages.append({"role": "user", "content": prompt})
-
         resp = requests.post(
             self.GROQ_URL,
             headers={"Authorization": f"Bearer {self.groq_key}", "Content-Type": "application/json"},
@@ -104,8 +78,7 @@ class FreeModelRouter:
         resp.raise_for_status()
         data = resp.json()
         return ModelResponse(
-            model="groq/llama-3.3-70b",
-            task_type="groq_call",
+            model="groq/llama-3.3-70b", task_type="groq_call",
             content=data["choices"][0]["message"]["content"],
             tokens_used=data.get("usage", {}).get("total_tokens", 0)
         )
@@ -132,13 +105,8 @@ class FreeModelRouter:
         )
         resp.raise_for_status()
         data = resp.json()
-        # HF returns list or dict depending on model
-        if isinstance(data, list):
-            text = data[0].get("generated_text", "")
-        else:
-            text = data.get("generated_text", str(data))
+        text = data[0].get("generated_text", "") if isinstance(data, list) else data.get("generated_text", str(data))
         return ModelResponse(model=f"hf/{model_id}", task_type="hf_call", content=text)
 
 
-# Singleton router instance
 router = FreeModelRouter()
