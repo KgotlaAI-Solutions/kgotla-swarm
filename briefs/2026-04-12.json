@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-12",
+  "executive_summary": "Today's intelligence highlights significant developments in the South African mining, energy, government, and enterprise sectors, with key opportunities emerging in digital transformation, AI adoption, and technology upgrades. The National Treasury's R1.4 billion budget for digital transformation initiatives and SITA's R500 million technology upgrade project are particularly noteworthy. Kgotla AI must act quickly to capitalize on these opportunities and build strategic relationships with key stakeholders.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.4B",
+      "action": "Submit a proposal for AI-powered solutions to support the National Treasury's digital transformation initiatives",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "SITA Technology Upgrade Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Prepare a bid for the SITA technology upgrade project, emphasizing AI-driven solutions",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Kemcore Processing Facilities",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Establish contact with Kemcore to explore potential partnerships and AI-powered solutions for their processing facilities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Eskom Revenue Reduction",
+      "sector": "energy",
+      "impact": "Potential reduction in Eskom's budget for AI-powered solutions and technology upgrades",
+      "mitigation": "Diversify our client base and explore opportunities in other sectors, such as mining and government"
+    },
+    {
+      "title": "Fuel Hike Impact on Alphamin",
+      "sector": "mining",
+      "impact": "Potential decrease in Alphamin's budget for AI-powered solutions and technology upgrades",
+      "mitigation": "Develop fuel-efficient AI-powered solutions to help Alphamin mitigate the impact of the fuel hike"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential partnerships and AI-powered solutions for their digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To inquire about the technology upgrade project and potential opportunities for AI-driven solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Kemcore",
+      "reason": "To explore potential partnerships and AI-powered solutions for their processing facilities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
