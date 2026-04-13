@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-13",
+  "executive_summary": "Today's intelligence highlights key opportunities in the mining and government sectors, with a focus on cost-effective solutions, technology upgrades, and digital transformation initiatives. The South African National Treasury's budget allocation for digital transformation and AI initiatives presents a significant opportunity for Kgotla AI. Geopolitical tensions and potential disruptions in the energy sector may also lead to increased spending on technology and AI solutions by South African enterprises.",
+  "top_opportunities": [
+    {
+      "title": "SITA IT Infrastructure Upgrade",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Submit a proposal for AI technology integration",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a tailored solution for digital transformation and AI initiatives",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "Kemcore Technology Upgrade",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Offer AI-powered solutions for processing facilities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Conflict in the Middle East",
+      "sector": "mining",
+      "impact": "Potential disruption to platinum exports and increased uncertainty for miners",
+      "mitigation": "Develop predictive analytics and risk management solutions to help miners navigate the challenges"
+    },
+    {
+      "title": "Geopolitical Tensions",
+      "sector": "energy",
+      "impact": "Potential disruptions to energy supplies and increased spending on technology and AI solutions",
+      "mitigation": "Develop AI-powered solutions to help companies mitigate risks and improve resilience"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To discuss AI technology integration for IT infrastructure upgrade",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation and AI initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Kemcore",
+      "reason": "To offer AI-powered solutions for processing facilities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
