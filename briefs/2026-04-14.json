@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-14",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the mining and government sectors, driven by technological upgrades and digital transformation initiatives. The South African National Treasury's R1.5 billion budget allocation for digital transformation and the potential for AI adoption in the energy and mining sectors are key areas of focus. Kgotla AI must act swiftly to capitalize on these opportunities and establish partnerships with key players in these sectors.",
+  "top_opportunities": [
+    {
+      "title": "Transnet Technology Upgrade",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Contact Transnet's procurement team to discuss potential AI-powered technology upgrade projects",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Submit a proposal to the National Treasury for AI-powered digital transformation initiatives",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Tharisa Technology Partnership",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Tharisa's management team to discuss potential AI-powered technology partnerships",
+      "deadline": "2026-05-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential delays in AI adoption due to unclear regulatory frameworks",
+      "mitigation": "Engage with NERSA and other regulatory bodies to stay informed about potential changes and provide input on AI-related regulations"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises due to established relationships with competitors",
+      "mitigation": "Develop strategic partnerships with smaller enterprises and expand our network to increase visibility and credibility"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transnet",
+      "reason": "Potential technology upgrade projects",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Tharisa",
+      "reason": "Potential technology partnerships",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Regulatory clarity on AI adoption",
+      "contact_approach": "email"
+    }
+  ]
+}
