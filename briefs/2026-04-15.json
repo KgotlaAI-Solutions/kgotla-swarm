@@ -1,0 +1,59 @@
+{
+  "date": "2026-04-15",
+  "executive_summary": "Today's intelligence highlights opportunities in the mining and government sectors, particularly in AI-powered exploration and digital transformation initiatives. The National Treasury's R1.5 billion budget allocation for digital transformation presents a significant opportunity for Kgotla AI. However, disruptions in the mining and energy sectors due to natural disasters and regulatory challenges pose threats to the company's pipeline.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation with National Treasury",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a tailored proposal for AI-powered digital transformation solutions",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "AI-Powered Exploration with KoBold Metals",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R50M",
+      "action": "Establish communication with KoBold Metals to explore potential collaboration opportunities",
+      "deadline": "2027-06-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Angola's Flooding Disrupts Mineral Exports",
+      "sector": "mining",
+      "impact": "Potential delays and increased costs in mineral exports may affect Kgotla AI's pipeline",
+      "mitigation": "Develop AI-powered logistics and supply chain optimization solutions to mitigate similar disruptions in the future"
+    },
+    {
+      "title": "Regulatory Challenges in Energy Sector",
+      "sector": "energy",
+      "impact": "Uncertainty in tariff applications and regulatory environment may affect Kgotla AI's ability to secure contracts",
+      "mitigation": "Monitor regulatory updates and engage with NERSA to stay informed about potential opportunities and challenges"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential collaboration on digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "KoBold Metals",
+      "reason": "To explore potential collaboration opportunities in AI-powered exploration",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To stay informed about regulatory updates and potential opportunities in the energy sector",
+      "contact_approach": "phone"
+    }
+  ]
+}
