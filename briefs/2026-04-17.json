@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-17",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the South African mining and government sectors, with a potential R1.56 billion budget for digital transformation and ICT projects in the government sector. Additionally, Paladin Energy's upgraded uranium guidance and BHP's consideration to invest in South African mining present potential partnerships for AI consulting firms. The energy sector also shows promise with NERSA's public hearings on electricity tariff applications and City Power's submitted tariff application.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation and ICT Projects",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.56B",
+      "action": "Prepare a proposal for digital transformation and ICT projects to submit to the National Treasury",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Optimizing Mining Operations",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to Paladin Energy to discuss potential AI solutions for optimizing mining operations",
+      "deadline": "2026-05-31"
+    },
+    {
+      "title": "Electricity Tariff Applications",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Monitor NERSA's public hearings and prepare a proposal for AI consulting services",
+      "deadline": "2026-06-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Lack of Open Tenders",
+      "sector": "government",
+      "impact": "Difficulty in securing contracts for AI consulting services",
+      "mitigation": "Regularly check etenders.gov.za for new postings and network with government officials"
+    },
+    {
+      "title": "Competition from Established Firms",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises",
+      "mitigation": "Develop strong relationships with key decision-makers and showcase Kgotla AI's unique value proposition"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential partnerships for digital transformation and ICT projects",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Paladin Energy",
+      "reason": "To discuss potential AI solutions for optimizing mining operations",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To inquire about potential opportunities for AI consulting services in the energy sector",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
