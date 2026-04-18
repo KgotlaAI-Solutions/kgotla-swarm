@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-18",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the government sector, with a R3.9 billion budget for digital transformation initiatives and a R500 million estimated value for the implementation of a national AI platform. The mining sector also shows promising leads, including potential AI-driven projects in Zimbabwe and the DRC. The energy sector presents opportunities for AI consulting firms to provide services related to tariff analysis and optimization.",
+  "top_opportunities": [
+    {
+      "title": "National AI Platform Implementation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R500M",
+      "action": "Monitor SITA's procurement portal for the official tender publication",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Platinum Growth Projects in Zimbabwe",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Establish communication with Implats to discuss potential AI opportunities",
+      "deadline": "2026-05-31"
+    },
+    {
+      "title": "Tariff Analysis and Optimization",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Prepare a proposal for NERSA and City Power (SOC) Ltd",
+      "deadline": "2026-06-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "government",
+      "impact": "Kgotla AI may face intense competition from established players in the government procurement space",
+      "mitigation": "Develop a unique value proposition and establish relationships with key decision-makers"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Changes in regulatory frameworks may affect the feasibility of AI projects in the energy sector",
+      "mitigation": "Monitor regulatory updates and engage with industry associations to stay informed"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To inquire about the national AI platform implementation tender",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Implats",
+      "reason": "To discuss potential AI opportunities in platinum growth projects",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To offer tariff analysis and optimization services",
+      "contact_approach": "phone"
+    }
+  ]
+}
