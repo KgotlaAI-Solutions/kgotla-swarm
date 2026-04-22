@@ -1,0 +1,61 @@
+{
+  "date": "2026-04-22",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the government and energy sectors, with the National Treasury announcing a R1.3 billion budget for digital transformation initiatives and Eskom issuing a Request for Proposal for an AI-powered predictive maintenance system. Additionally, the State Information Technology Agency has announced a R250 million contract for an AI-powered data analytics platform. These developments present critical opportunities for Kgotla AI to engage with key stakeholders and submit proposals.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Predictive Maintenance RFP",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R250M",
+      "action": "Submit a proposal for the AI-powered predictive maintenance system",
+      "deadline": "2026-05-15"
+    },
+    {
+      "title": "SITA AI-Powered Data Analytics Platform",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R250M",
+      "action": "Monitor etenders.gov.za for the publication of the tender and prepare a proposal",
+      "deadline": null
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Engage with National Treasury officials to discuss potential collaboration opportunities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Compliance with Financial Sector AI Regulations",
+      "sector": "enterprise",
+      "impact": "Failure to comply with the new regulations may result in lost business opportunities and reputational damage",
+      "mitigation": "Develop a compliance solution for financial institutions and engage with key stakeholders to promote Kgotla AI's services"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss the predictive maintenance RFP and submit a proposal",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "State Information Technology Agency",
+      "reason": "To inquire about the AI-powered data analytics platform tender and express interest",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential collaboration opportunities for digital transformation initiatives",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
