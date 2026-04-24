@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-24",
+  "executive_summary": "Today's critical intelligence reveals significant opportunities for Kgotla AI Consulting in the South African government sector, with a R1.5 billion budget for digital transformation initiatives and a R120 million contract for an AI-powered HR management system. Additionally, the mining sector presents opportunities with Rio Tinto's potential exit from its Richards Bay Minerals titanium business and Sibanye-Stillwater's evaluation of its Keliber project. The energy sector also offers opportunities with NERSA's public hearings on Electricity Tariff Applications.",
+  "top_opportunities": [
+    {
+      "title": "R1.5B Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a proposal for digital transformation services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "R120M AI-Powered HR Management System",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R120M",
+      "action": "Submit a proposal for the AI-powered HR management system",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Rio Tinto's Richards Bay Minerals Exit",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": " Establish contact with Rio Tinto to discuss potential AI consulting services",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Increased Competition in Government Sector",
+      "sector": "government",
+      "impact": "Reduced chances of winning government contracts",
+      "mitigation": "Develop strategic partnerships with key government agencies and improve proposal development capabilities"
+    },
+    {
+      "title": "Regulatory Changes in Energy Sector",
+      "sector": "energy",
+      "impact": "Potential disruption to energy sector projects",
+      "mitigation": "Monitor regulatory changes and develop strategies to adapt to new regulations"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "3"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "Discuss potential collaboration on digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "Inquire about the AI-powered HR management system contract",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Rio Tinto",
+      "reason": "Explore potential AI consulting services for Richards Bay Minerals",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
