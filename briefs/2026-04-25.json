@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-25",
+  "executive_summary": "Today's intelligence highlights key opportunities in the mining and government sectors, with potential partnerships and projects in AI implementation and digital transformation. The National Treasury's R 3.4 billion budget for digital transformation initiatives presents a significant opportunity for Kgotla AI Consulting. The energy sector also shows promise, with potential acquisitions and upgrades in the titanium business.",
+  "top_opportunities": [
+    {
+      "title": "Southern Palladium Chrome Concentrate Project",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Establish contact with Southern Palladium's project management team to explore potential AI implementation",
+      "deadline": "2026-05-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R3.4B",
+      "action": "Review and respond to the National Treasury's budget announcement with a tailored proposal for AI consulting services",
+      "deadline": "2026-05-31"
+    },
+    {
+      "title": "Rio Tinto Richards Bay Minerals Acquisition Opportunity",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R1B",
+      "action": "Monitor Rio Tinto's evaluation of its Richards Bay Minerals titanium business for potential acquisition or partnership opportunities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty in AI Development",
+      "sector": "government",
+      "impact": "Potential regulatory changes could affect Kgotla AI's pipeline and project delivery",
+      "mitigation": "Monitor the Department of Communications and Digital Technologies' draft policy on Artificial Intelligence and provide input before the deadline"
+    },
+    {
+      "title": "Economic Strain on Enterprise Technology Spending",
+      "sector": "enterprise",
+      "impact": "Reduced technology spending could impact Kgotla AI's sales pipeline",
+      "mitigation": "Diversify sales efforts across sectors and emphasize the value proposition of AI consulting services"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Southern Palladium",
+      "reason": "Explore potential AI implementation in their chrome concentrate project",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Respond to the digital transformation initiative with a tailored proposal",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Rio Tinto",
+      "reason": "Monitor the evaluation of their Richards Bay Minerals titanium business",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
