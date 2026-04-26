@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-26",
+  "executive_summary": "Major opportunities exist in the South African mining, energy, and government sectors, driven by planned exits, digital transformations, and investments in data centres and smart city initiatives. The National Treasury's R1.5 billion budget allocation for digital transformation and the City of Johannesburg's R500 million investment in smart city initiatives are key highlights. Kgotla AI must prioritize outreach and proposal submissions to capitalize on these emerging opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Rio Tinto's Richards Bay Minerals Exit",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Prepare a proposal for digital transformation and technology upgrade services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Submit an expression of interest for AI and data analytics solutions",
+      "deadline": "2026-05-31"
+    },
+    {
+      "title": "City of Johannesburg Smart City Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Reach out to the City of Johannesburg to discuss AI-powered traffic management and intelligent transportation systems",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Financial Strain on Households",
+      "sector": "enterprise",
+      "impact": "Reduced demand for AI solutions due to budget constraints",
+      "mitigation": "Develop cost-effective and efficient AI solutions that can help businesses reduce costs and improve productivity"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Delays in procurement decisions and project implementation",
+      "mitigation": "Engage with NERSA and other regulatory bodies to stay informed about developments and provide input on proposed regulations"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation and AI solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "To explore opportunities for AI-powered smart city initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Rio Tinto",
+      "reason": "To discuss potential technology upgrade and digital transformation projects",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
