@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-27",
+  "executive_summary": "The South African government has committed R1.3 billion to digital transformation initiatives and R50 billion to data centers, presenting opportunities for AI consulting firms. Key opportunities exist in the mining, energy, and government sectors, with notable developments including Implats' stable output and potential for AI-driven process optimization, and the National Treasury's budget allocation for digital transformation initiatives. The development of a national AI strategy by SITA also presents a significant opportunity for Kgotla AI Consulting.",
+  "top_opportunities": [
+    {
+      "title": "National AI Strategy Development",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit a proposal to SITA for the development of a national AI strategy",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R1.3B",
+      "action": "Engage with the National Treasury to explore potential opportunities for AI-driven digital transformation initiatives",
+      "deadline": null
+    },
+    {
+      "title": "AI-powered Process Optimization for Implats",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500k",
+      "action": "Reach out to Implats to discuss potential AI-powered process optimization opportunities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Limited Procurement Opportunities",
+      "sector": "energy",
+      "impact": "Limited access to procurement opportunities may hinder Kgotla AI Consulting's growth in the energy sector",
+      "mitigation": "Build relationships with key stakeholders and decision-makers in the energy sector to stay informed about upcoming procurement opportunities"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Uncertainty around regulatory frameworks may impact Kgotla AI Consulting's ability to operate effectively in the government sector",
+      "mitigation": "Monitor regulatory developments and engage with key stakeholders to ensure compliance and stay ahead of potential changes"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To explore opportunities for collaboration on the development of a national AI strategy",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential opportunities for AI-driven digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Implats",
+      "reason": "To discuss potential AI-powered process optimization opportunities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
