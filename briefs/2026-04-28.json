@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-28",
+  "executive_summary": "Today's intelligence highlights key opportunities in the South African mining, energy, government, and enterprise sectors. The government's budget allocation of R 3.8 billion for digital transformation initiatives and Eskom's negotiations for new electricity supply agreements create potential opportunities for AI consulting firms. Meanwhile, cybersecurity incidents and municipal governance failures may also lead to technology upgrade projects and procurement opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R3.8B",
+      "action": "Prepare a proposal for digital transformation services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Eskom Electricity Supply Agreement",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Establish contact with Eskom's procurement team",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Standard Bank Cybersecurity",
+      "sector": "enterprise",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5M",
+      "action": "Offer AI-powered cybersecurity solutions to Standard Bank",
+      "deadline": "2026-05-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Cyber Incident at Standard Bank",
+      "sector": "enterprise",
+      "impact": "Potential loss of client data and reputation damage",
+      "mitigation": "Develop and offer AI-powered cybersecurity solutions to mitigate third-party cyber risks"
+    },
+    {
+      "title": "Municipal Governance Failures",
+      "sector": "government",
+      "impact": "Potential delays in technology upgrade projects and procurement opportunities",
+      "mitigation": "Monitor procurement notices and establish relationships with government agencies and companies involved in these projects"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential opportunities for AI consulting services in optimizing energy management and consumption",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To inquire about potential opportunities for AI consulting services in digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Standard Bank",
+      "reason": "To offer AI-powered cybersecurity solutions",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
