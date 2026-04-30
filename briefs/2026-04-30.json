@@ -1,0 +1,48 @@
+{
+  "date": "2026-04-30",
+  "executive_summary": "Today's critical intelligence highlights significant opportunities in the mining and government sectors, with MC Mining's Makhao hard coking coal mine and the National Treasury's R1.3 billion budget allocation for digital transformation presenting potential entry points for Kgotla AI Consulting. Additionally, the energy sector shows promise with South32 and Eskom's talks on a new electricity supply agreement.",
+  "top_opportunities": [
+    {
+      "title": "Makhao Hard Coking Coal Mine Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Prepare a proposal for AI-powered mine operations optimization services",
+      "deadline": "2026-05-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Submit an expression of interest for data analytics and process automation services",
+      "deadline": "2026-06-01"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share and revenue",
+      "mitigation": "Differentiate Kgotla AI Consulting through specialized AI services and build strong relationships with key decision-makers"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "MC Mining",
+      "reason": "Express interest in providing AI-powered mine operations optimization services for the Makhao hard coking coal mine",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Inquire about the digital transformation project and potential opportunities for Kgotla AI Consulting",
+      "contact_approach": "phone"
+    }
+  ]
+}
