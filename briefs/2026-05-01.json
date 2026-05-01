@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-01",
+  "executive_summary": "Kgotla AI has identified significant opportunities in the mining, energy, government, and enterprise sectors in South Africa. The development of the Makhado hard coking coal mine, the Gautrain expansion project, and the South African government's digital transformation strategy are key areas of focus. These opportunities require immediate attention and strategic action to capitalize on the potential for AI consulting services.",
+  "top_opportunities": [
+    {
+      "title": "Makhado Hard Coking Coal Mine Development",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Contact MC Mining to discuss AI-powered mine operations optimization",
+      "deadline": "2026-05-15"
+    },
+    {
+      "title": "Gautrain Expansion Project",
+      "sector": "enterprise",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Research and prepare a proposal for AI-powered land management and compensation systems",
+      "deadline": "2026-06-01"
+    },
+    {
+      "title": "South African Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Monitor etenders.gov.za for digital transformation tenders and prepare a proposal",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Established Competition",
+      "sector": "government",
+      "impact": "Competition from established players like Dimension Data and IBM may limit Kgotla AI's access to government contracts",
+      "mitigation": "Develop strategic partnerships and emphasize unique value proposition"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Uncertainty around new crypto regulations may delay or cancel potential projects",
+      "mitigation": "Monitor regulatory developments and engage with relevant stakeholders"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "MC Mining",
+      "reason": "Discuss AI-powered mine operations optimization for the Makhado hard coking coal mine",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "Inquire about digital transformation strategy and potential AI opportunities",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "SITA",
+      "reason": "Discuss potential AI and machine learning solutions for technology infrastructure upgrade",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
