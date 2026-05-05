@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-05",
+  "executive_summary": "Today's key intelligence highlights opportunities in the mining, energy, and government sectors, particularly with regards to AI-powered project management, energy management, and digital transformation initiatives. The South African National Treasury's budget allocation of R1.3 billion for digital transformation initiatives presents a significant opportunity for Kgotla AI. Multiple requests for information and comments on various agreements and applications also indicate a need for AI consulting services.",
+  "top_opportunities": [
+    {
+      "title": "Makhado Hard Coking Coal Mine Development",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Submit a proposal for AI-powered project management solutions to MC Mining",
+      "deadline": "2026-06-05"
+    },
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Establish contact with the South African National Treasury to discuss AI and data analytics solutions",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Hillside Aluminium Smelter Energy Supply Agreement",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Offer AI-driven energy management systems to South32 and Eskom",
+      "deadline": "2026-07-05"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Kgotla AI may face challenges in competing with established players for large contracts",
+      "mitigation": "Develop strategic partnerships and focus on niche AI solutions"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Changes in regulations or policies may affect Kgotla AI's operations and opportunities",
+      "mitigation": "Continuously monitor regulatory updates and engage with government agencies"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "7",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "South African National Treasury",
+      "reason": "Discuss digital transformation initiatives and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "MC Mining",
+      "reason": "Explore potential partnership for AI-powered project management solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "Offer AI-driven energy management systems for the Hillside Aluminium Smelter",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
