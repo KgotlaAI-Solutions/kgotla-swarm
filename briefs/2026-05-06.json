@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-06",
+  "executive_summary": "Today's intelligence highlights key opportunities in the government sector, with a R1.5 billion budget for digital transformation initiatives and a request for information for AI-powered cybersecurity solutions. The mining sector also presents opportunities, with Exxaro Resources diversifying its business and China's KDG completing a $90m takeover of MC Mining. The energy sector has ongoing tariff application and negotiation processes, while the enterprise sector has potential opportunities in mid-corporate banking and technology recovery projects.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Prepare a proposal for AI and data analytics solutions",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "AI-Powered Cybersecurity Solutions",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R500M",
+      "action": "Submit a response to the request for information",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Exxaro Resources Diversification",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Reach out to Exxaro Resources to discuss potential AI consulting services",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delays in digital transformation initiatives",
+      "mitigation": "Engage with government officials to clarify regulations and provide feedback on draft policies"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises",
+      "mitigation": "Develop strategic partnerships with smaller businesses and mid-corporate banks"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Exxaro Resources",
+      "reason": "Potential opportunity for AI consulting services in areas like predictive maintenance and data analytics",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "State Information Technology Agency (SITA)",
+      "reason": "Request for information for AI-powered cybersecurity solutions",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiatives and budget allocation",
+      "contact_approach": "phone"
+    }
+  ]
+}
