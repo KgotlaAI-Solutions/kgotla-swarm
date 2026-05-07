@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-07",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining and government sectors, with potential for AI consulting services in digital transformation, predictive maintenance, and process optimization. The South African National Treasury's R1.3 billion budget allocation for digital transformation initiatives and the City of Johannesburg's smart city technology upgrade project are key focal points. Additionally, the energy sector presents opportunities for AI-driven solutions in pricing and forecasting.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation with National Treasury",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Prepare a tailored proposal for digital transformation services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Smart City Technology Upgrade with City of Johannesburg",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Submit a bid for the smart city technology upgrade project",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Predictive Maintenance with Sibanye-Stillwater",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Establish contact with Sibanye-Stillwater's procurement department",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to established AI consulting firms",
+      "mitigation": "Develop strategic partnerships and emphasize Kgotla AI's unique value proposition"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential delays in project implementation due to regulatory changes",
+      "mitigation": "Maintain close relationships with regulatory bodies and stay up-to-date on industry developments"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential partnership opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "To inquire about the smart city technology upgrade project and submit a bid",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To explore potential opportunities for predictive maintenance and process optimization services",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
