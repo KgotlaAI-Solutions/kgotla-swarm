@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-08",
+  "executive_summary": "The South African government has announced a budget of R 1.5 billion for digital transformation initiatives, with a focus on AI and data analytics. This presents a significant opportunity for Kgotla AI to provide services to the government sector. Additionally, several companies in the mining and energy sectors are looking to upgrade their technology and operations, which could also benefit from AI consulting services.",
+  "top_opportunities": [
+    {
+      "title": "SITA IT Modernization Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R 300M",
+      "action": "Submit a proposal for the IT modernization project",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "City of Johannesburg Smart City Project",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R 200M",
+      "action": "Monitor the tender portal for the smart city project",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Tharisa Technology Upgrade",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R 1M",
+      "action": "Reach out to Tharisa to discuss potential technology upgrade services",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Market Volatility",
+      "sector": "mining",
+      "impact": "Potential decrease in demand for AI consulting services due to market uncertainty",
+      "mitigation": "Diversify services to include cost optimization and risk management"
+    },
+    {
+      "title": "Regulatory Changes",
+      "sector": "energy",
+      "impact": "Potential changes in regulations could affect the demand for AI consulting services",
+      "mitigation": "Monitor regulatory updates and adjust services accordingly"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To discuss the IT modernization project and potential services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Tharisa",
+      "reason": "To discuss potential technology upgrade services",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "To discuss the smart city project and potential services",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
