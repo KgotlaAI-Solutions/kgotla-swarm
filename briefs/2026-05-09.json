@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-09",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the mining, energy, and government sectors, driven by announcements of large investments and budget allocations for digital transformation and ICT infrastructure development. The South African government's R24.6 billion budget for digital transformation and ICT infrastructure development presents a substantial opportunity for AI consulting firms. Additionally, companies like Sibanye-Stillwater and Eskom may be looking to invest in technology upgrades, including AI solutions, to improve their operations.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation Budget",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6B",
+      "action": "Prepare a proposal for digital transformation and ICT infrastructure development services",
+      "deadline": "2027-03-31"
+    },
+    {
+      "title": "Eskom Technology Upgrades",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M-R1B",
+      "action": "Research and develop a solution for AI-powered technology upgrades for Eskom",
+      "deadline": null
+    },
+    {
+      "title": "Sibanye-Stillwater Senior Notes Offering",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R8.2B",
+      "action": "Reach out to Sibanye-Stillwater to discuss potential AI solutions for their operations",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Missed NERSA Conference",
+      "sector": "energy",
+      "impact": "Potential loss of opportunity to connect with key stakeholders in the energy sector",
+      "mitigation": "Monitor the NERSA portal and other government websites for open tenders and RFPs"
+    },
+    {
+      "title": "Lack of Specific Tender Information",
+      "sector": "enterprise",
+      "impact": "Difficulty in identifying specific opportunities for AI consulting services",
+      "mitigation": "Conduct manual checks of etenders.gov.za and other relevant websites"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential opportunities for digital transformation and ICT infrastructure development services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To explore potential AI-powered technology upgrades",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To discuss potential AI solutions for their operations",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
