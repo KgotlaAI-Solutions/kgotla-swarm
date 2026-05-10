@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-10",
+  "executive_summary": "Multiple opportunities have arisen across the South African mining, energy, government, and enterprise sectors for Kgotla AI Consulting to provide AI-powered solutions. The National Treasury's R1.3 billion budget allocation for digital transformation initiatives presents a significant opportunity. Eskom's scrutiny over a R21 billion diesel contract may lead to increased demand for transparency and efficiency solutions.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Prepare a proposal for digital transformation services",
+      "deadline": null
+    },
+    {
+      "title": "Eskom Transparency and Efficiency Solutions",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to Eskom to discuss potential AI-powered solutions",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Sibanye-Stillwater Technology Upgrades",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Research potential AI applications for Sibanye-Stillwater's operations",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Eskom Regulatory Scrutiny",
+      "sector": "energy",
+      "impact": "Potential loss of business opportunities if Eskom's issues are not addressed",
+      "mitigation": "Develop AI-powered solutions to enhance transparency and efficiency"
+    },
+    {
+      "title": "Limited Government Tenders",
+      "sector": "government",
+      "impact": "Reduced opportunities for Kgotla AI Consulting to secure government contracts",
+      "mitigation": "Monitor etenders.gov.za regularly and network with government officials"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "7",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential business opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To explore potential AI-powered solutions for transparency and efficiency",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To research potential AI applications for their operations",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
