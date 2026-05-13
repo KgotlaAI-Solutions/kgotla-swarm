@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-13",
+  "executive_summary": "Multiple opportunities for AI consulting services have emerged across various sectors in South Africa, including mining, energy, government, and enterprise. The National Treasury's R1.5 billion budget for digital transformation initiatives and the State Information Technology Agency's R200 million IT modernization project are key highlights. Kgotla AI must prioritize outreach to key entities and develop strategic proposals to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a strategic proposal for AI-powered digital transformation solutions",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "SITA IT Modernization Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R200M",
+      "action": "Submit a tender for the IT modernization project with AI components",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Eskom Energy Forecasting and Grid Management",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Eskom to discuss AI-powered energy forecasting and grid management solutions",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share and revenue",
+      "mitigation": "Develop unique value propositions and build strong relationships with key decision-makers"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delays in procurement processes and project implementation",
+      "mitigation": "Monitor regulatory updates and engage with government entities to stay informed"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To inquire about the IT modernization project tender process and potential AI components",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To explore potential opportunities for AI-powered energy forecasting and grid management solutions",
+      "contact_approach": "phone"
+    }
+  ]
+}
