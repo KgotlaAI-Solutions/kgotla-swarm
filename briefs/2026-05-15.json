@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-15",
+  "executive_summary": "Kgotla AI Consulting has identified key opportunities in the South African mining, energy, and government sectors, including potential AI consulting services for Sibanye-Stillwater's offshore operations, AI-powered logistics and transportation management solutions for Transnet, and AI-driven tariff optimization for NERSA. The company must also monitor developments in the government procurement and digital transformation sector, particularly the National Artificial Intelligence Strategy. Immediate action is required to capitalize on these opportunities and establish a strong presence in the market.",
+  "top_opportunities": [
+    {
+      "title": "Sibanye-Stillwater Offshore Operations",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.8B",
+      "action": "Contact Sibanye-Stillwater's procurement department to discuss potential AI consulting services",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Transnet Logistics and Transportation Management",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Research Transnet's current logistics and transportation management systems and prepare a proposal for AI-powered solutions",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "NERSA Tariff Optimization",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R2.5M",
+      "action": "Submit a proposal for AI-driven tariff optimization services to NERSA",
+      "deadline": "2026-05-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "government",
+      "impact": "Difficulty in securing government contracts and projects",
+      "mitigation": "Develop strategic partnerships with local companies and emphasize Kgotla AI's expertise in AI consulting services"
+    },
+    {
+      "title": "Regulatory Changes",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and revenue streams",
+      "mitigation": "Monitor regulatory developments and adjust business strategies accordingly"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "6",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Sibanye-Stillwater Procurement Department",
+      "reason": "Discuss potential AI consulting services for offshore operations",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Transnet Logistics and Transportation Management",
+      "reason": "Research current systems and prepare a proposal for AI-powered solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Submit a proposal for AI-driven tariff optimization services",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
