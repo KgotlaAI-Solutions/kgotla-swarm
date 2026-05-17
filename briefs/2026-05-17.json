@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-17",
+  "executive_summary": "Several new opportunities have emerged in the South African mining, energy, government, and enterprise sectors, with a focus on digital transformation, AI adoption, and technology upgrades. The National Treasury's R1.3 billion budget allocation for digital transformation initiatives and SITA's planned IT infrastructure upgrade are key highlights. Kgotla AI must act swiftly to capitalize on these opportunities and build relationships with key stakeholders.",
+  "top_opportunities": [
+    {
+      "title": "SITA IT Infrastructure Upgrade",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Submit proposal for AI and machine learning technologies",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Establish contact with National Treasury officials to discuss AI consulting services",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Sibanye-Stillwater Expansion",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R18B",
+      "action": "Research potential AI applications for predictive maintenance and process optimization",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Compliance Risks in the Clothing Manufacturing Industry",
+      "sector": "enterprise",
+      "impact": "Potential regulatory changes could lead to increased scrutiny and compliance risks for clients in the industry",
+      "mitigation": "Develop compliance and risk management solutions to support affected companies"
+    },
+    {
+      "title": "Lack of Open Tenders and RFPs",
+      "sector": "enterprise",
+      "impact": "Limited visibility into potential procurement opportunities",
+      "mitigation": "Monitor company websites and industry news for potential technology procurement opportunities"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "Planned IT infrastructure upgrade and potential adoption of AI and machine learning technologies",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "R1.3 billion budget allocation for digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "R18 billion expansion and potential opportunities for AI consulting services",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
