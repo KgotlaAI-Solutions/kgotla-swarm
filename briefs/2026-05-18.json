@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-18",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African mining, energy, and government sectors, driven by investments in renewable energy, digital transformation, and infrastructure upgrades. The company should prioritize pursuing tenders and partnerships related to AI-powered grid management, predictive maintenance, and data analytics. Key deadlines include the June 30, 2026, submission deadline for the Renewable Energy Independent Power Producer Procurement program.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Grid Modernization",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R50M",
+      "action": "Develop a proposal for AI-powered grid management solutions",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Sibanye-Stillwater Predictive Maintenance",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Establish contact with Sibanye-Stillwater's maintenance team",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit an expression of interest for digital transformation initiatives",
+      "deadline": "2026-06-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delays in procurement processes and project implementation",
+      "mitigation": "Monitor regulatory updates and engage with government agencies to clarify requirements"
+    },
+    {
+      "title": "Competition from Established Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to more established AI consulting firms",
+      "mitigation": "Develop strategic partnerships and focus on niche areas of expertise"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "9",
+    "government": "8",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "Discuss potential partnerships for AI-powered grid management solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "Explore opportunities for predictive maintenance and process optimization",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Submit an expression of interest for digital transformation initiatives",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
