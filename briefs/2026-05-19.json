@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-19",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining and energy sectors, with Harmony Gold and Anglo American indicating potential increases in capital allocation for technology upgrades, including AI solutions. The South African government has also announced significant budget allocations for digital transformation initiatives, creating opportunities for AI consulting firms. Additionally, Eskom's R150 billion budget for its 2026-2027 financial year presents a significant opportunity for AI integration in the energy sector.",
+  "top_opportunities": [
+    {
+      "title": "Harmony Gold Technology Upgrade",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Submit a proposal for AI-powered solutions to optimize operations",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Eskom Digitization and Technology Upgrades",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Establish communication with Eskom's procurement team to explore AI integration opportunities",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Monitor etenders.gov.za for open tenders and submit proposals for AI consulting services",
+      "deadline": "2026-06-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "NERSA Regulatory Framework Review",
+      "sector": "energy",
+      "impact": "Potential changes to the regulatory framework may impact Kgotla AI's pipeline in the energy sector",
+      "mitigation": "Monitor NERSA's portal for updates and engage with stakeholders to stay informed"
+    },
+    {
+      "title": "Government Departments' Digital Transformation Plans",
+      "sector": "government",
+      "impact": "Failure to submit digital transformation plans by the deadline may impact Kgotla AI's opportunities in the government sector",
+      "mitigation": "Establish communication with government departments to offer support and expertise in digital transformation initiatives"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "9",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Harmony Gold",
+      "reason": "Potential technology upgrade opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "R150 billion budget for digitization and technology upgrades",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "R1.5 billion budget for digital transformation initiatives",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
