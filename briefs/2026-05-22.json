@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-22",
+  "executive_summary": "Today's intelligence highlights opportunities for AI consulting services in the mining, energy, and government sectors, with a focus on project planning, optimization, and digital transformation. The National Energy Regulator of South Africa's public hearings and the South African National Treasury's budget for digital transformation initiatives are key areas to watch. Kgotla AI must prioritize monitoring these developments and engaging with key stakeholders to capitalize on emerging opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Tharisa's Karo Platinum project",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R545M",
+      "action": "Reach out to Tharisa to offer AI consulting services for project planning and optimization",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "NERSA public hearings",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R1B",
+      "action": "Attend NERSA public hearings to showcase AI consulting capabilities and network with key stakeholders",
+      "deadline": "2026-06-22"
+    },
+    {
+      "title": "National Treasury's digital transformation initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Submit a proposal to the National Treasury for AI consulting services to support digital transformation",
+      "deadline": "2026-07-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from established players",
+      "sector": "enterprise",
+      "impact": "May limit Kgotla AI's ability to secure contracts and grow its client base",
+      "mitigation": "Develop a strong value proposition and build relationships with key decision-makers"
+    },
+    {
+      "title": "Regulatory changes",
+      "sector": "government",
+      "impact": "May impact Kgotla AI's ability to operate and deliver services",
+      "mitigation": "Stay up-to-date with regulatory developments and engage with government stakeholders to ensure compliance"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "9",
+    "government": "8",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Tharisa",
+      "reason": "To offer AI consulting services for project planning and optimization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To attend public hearings and network with key stakeholders",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To submit a proposal for AI consulting services to support digital transformation",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
