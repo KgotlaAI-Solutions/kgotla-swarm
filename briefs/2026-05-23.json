@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-23",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African mining, energy, and government sectors. The National Treasury's R1.7 billion budget for digital transformation initiatives and the upcoming public hearings by NERSA present potential avenues for AI consulting services. Tharisa's proposed $545m Karo Platinum project also requires AI consulting services for project planning, risk management, and operational optimization.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.7B",
+      "action": "Prepare a tailored proposal for AI-driven digital transformation solutions",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Karo Platinum Project",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R7.5B",
+      "action": "Establish contact with Tharisa's project management team to discuss AI consulting services",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "NERSA Public Hearings",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R500M",
+      "action": "Attend the public hearings on June 22, 2026, to showcase AI-powered energy management solutions",
+      "deadline": "2026-06-22"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to established AI consulting firms",
+      "mitigation": "Develop strategic partnerships with local businesses and focus on niche AI solutions"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Delays in project implementations due to changing regulatory requirements",
+      "mitigation": "Maintain open communication channels with government agencies and stay updated on regulatory changes"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Tharisa",
+      "reason": "To discuss AI consulting services for the Karo Platinum project",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To inquire about the digital transformation initiative's RFP process",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To confirm attendance at the public hearings and discuss AI-powered energy management solutions",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
