@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-24",
+  "executive_summary": "Kgotla AI has identified several key opportunities for growth in the South African mining, energy, government, and enterprise sectors, particularly in AI consulting and digital transformation. The National Treasury's R1.3 billion budget allocation for digital transformation initiatives presents a significant opportunity. Monitoring of NERSA's regulatory activities and public hearings is crucial for potential partnerships.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Develop a proposal for AI-powered digital transformation services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "SITA AI-Powered Cybersecurity Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Prepare a team to respond to the upcoming RFP",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Tharisa London Listing and Karo Platinum Project",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R545M",
+      "action": "Reach out to Tharisa to discuss potential AI consulting services",
+      "deadline": "2026-06-01"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to more established firms",
+      "mitigation": "Develop unique AI-powered services and build strong relationships with key decision-makers"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Delays in project implementation due to changing regulatory requirements",
+      "mitigation": "Closely monitor NERSA's activities and engage with regulatory bodies to stay informed"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Tharisa",
+      "reason": "Potential AI consulting services for London listing and Karo Platinum project",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "Upcoming RFP for AI-powered cybersecurity project",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "R1.3 billion budget allocation for digital transformation initiatives",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
