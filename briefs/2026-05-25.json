@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-25",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African government and mining sectors, with major investments in digital transformation and infrastructure projects. The energy sector also presents potential for AI-powered solutions, particularly in the context of the National Energy Regulator's public hearings. The enterprise sector offers less immediate opportunities, but monitoring company announcements and procurement plans is essential.",
+  "top_opportunities": [
+    {
+      "title": "Government Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6 billion",
+      "action": "Reach out to the Department of Public Service and Administration to explore potential collaborations on AI-powered citizen engagement platforms",
+      "deadline": "2027-02-28"
+    },
+    {
+      "title": "Tharisa London Listing Upgrade",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10 million",
+      "action": "Contact Tharisa's investor relations to discuss potential AI consulting services for technology upgrades",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "NERSA Public Hearings",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R5 million",
+      "action": "Attend the public hearing on June 22, 2026, to showcase AI-powered solutions for stakeholders like Sasol Gas and Transnet SOC Ltd",
+      "deadline": "2026-06-22"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Lack of Immediate Opportunities in Enterprise Sector",
+      "sector": "enterprise",
+      "impact": "May limit Kgotla AI's short-term growth in the sector",
+      "mitigation": "Continuously monitor company announcements and procurement plans to identify potential opportunities"
+    },
+    {
+      "title": "Regulatory Uncertainty in Energy Sector",
+      "sector": "energy",
+      "impact": "May affect the adoption of AI-powered solutions",
+      "mitigation": "Engage with NERSA and other stakeholders to provide input on the development of regulations"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "To explore potential collaborations on AI-powered citizen engagement platforms",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Tharisa Investor Relations",
+      "reason": "To discuss potential AI consulting services for technology upgrades",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To provide input on the development of regulations and showcase AI-powered solutions",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
