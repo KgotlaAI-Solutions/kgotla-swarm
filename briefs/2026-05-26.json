@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-26",
+  "executive_summary": "The South African government's consideration of amendments to the MPRD Act and allocation of R1.3 billion for digital transformation initiatives present significant opportunities for Kgotla AI. Additionally, the energy sector's public hearings and tariff adjustments may require AI consulting services. The mining sector's potential for AI-driven exploration and operations optimization also warrants attention.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Prepare a proposal for digital transformation services",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "AI-Driven Exploration and Operations Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500K",
+      "action": "Research and develop a tailored solution for junior mining companies",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "Energy Market Code and Rules Input",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R200K",
+      "action": "Submit comments on the Market Code and Market Rules",
+      "deadline": "2026-06-22"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Delays in digital transformation initiatives and potential loss of business",
+      "mitigation": "Monitor regulatory developments and engage with government entities to ensure Kgotla AI's interests are represented"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises",
+      "mitigation": "Develop strategic partnerships and highlight Kgotla AI's unique value proposition"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "7",
+    "government": "8",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "Discuss digital transformation initiatives and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sasol",
+      "reason": "Explore potential for AI-driven operations optimization",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Department of Communications and Digital Technologies",
+      "reason": "Engage on the draft National Digital Policy and potential regulatory opportunities",
+      "contact_approach": "phone"
+    }
+  ]
+}
