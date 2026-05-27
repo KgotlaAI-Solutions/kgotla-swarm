@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-27",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining, energy, government, and enterprise sectors, with key areas of focus including digital transformation, regulatory compliance, and AI-driven solutions. The South African government's R24.6 billion budget allocation for digital transformation and IT upgrades presents a significant opportunity for Kgotla AI. Additionally, the National Energy Regulator of South Africa's (NERSA) extended deadline for comments on the Market Code and Market Rules provides a chance for input on regulation.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Opportunity with National Treasury",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6B",
+      "action": "Submit an expression of interest for digital transformation services",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "NERSA Market Code and Market Rules Commentary",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500K",
+      "action": "Review and provide input on the Market Code and Market Rules",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "Richards Bay Minerals Leadership Change",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R1M",
+      "action": "Establish contact with the new leadership at Richards Bay Minerals",
+      "deadline": "2026-07-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "BHP's Scaled-Back Decarbonisation Plans",
+      "sector": "mining",
+      "impact": "Potential loss of business opportunity due to decreased focus on sustainability and environmental management",
+      "mitigation": "Reach out to BHP to discuss potential AI-driven solutions for revising their climate commitments"
+    },
+    {
+      "title": "Regulatory Uncertainty in the Energy Sector",
+      "sector": "energy",
+      "impact": "Potential delay in project implementation due to unclear regulations",
+      "mitigation": "Monitor NERSA announcements and engage with industry stakeholders to stay informed about regulatory developments"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation opportunities and express interest in providing services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To provide input on the Market Code and Market Rules and establish a relationship with the regulator",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Richards Bay Minerals",
+      "reason": "To establish contact with the new leadership and explore potential business opportunities",
+      "contact_approach": "phone"
+    }
+  ]
+}
