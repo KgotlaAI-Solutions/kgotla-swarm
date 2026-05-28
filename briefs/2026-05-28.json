@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-28",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African mining, energy, and government sectors, driven by investments in AI-focused funds, digital transformation, and ICT upgrades. The National Energy Regulator of South Africa's extended deadline for comments on Market Code and Market Rules presents a critical opportunity for influence. The South African National Treasury's R1.5 trillion budget for the 2026/27 financial year, with a focus on digital transformation, also presents a key opportunity for Kgotla AI to support government agencies.",
+  "top_opportunities": [
+    {
+      "title": "AI-focused fund partnership",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R150M",
+      "action": "Reach out to Transition Ventures to explore potential partnership opportunities",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Digital transformation support for government agencies",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5T",
+      "action": "Develop a proposal for digital transformation services and submit to the National Treasury",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Influence on Market Code and Market Rules",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Submit comments on Market Code and Market Rules to the National Energy Regulator of South Africa",
+      "deadline": "2026-06-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "RSS feed failure from businessday.co.za",
+      "sector": "enterprise",
+      "impact": "Limited access to current procurement opportunities",
+      "mitigation": "Monitor government and large enterprise announcements for potential AI-related investments and explore alternative sources for procurement information"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "9",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transition Ventures",
+      "reason": "Explore potential partnership opportunities for AI-focused fund",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Submit proposal for digital transformation services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Energy Regulator of South Africa",
+      "reason": "Submit comments on Market Code and Market Rules",
+      "contact_approach": "email"
+    }
+  ]
+}
