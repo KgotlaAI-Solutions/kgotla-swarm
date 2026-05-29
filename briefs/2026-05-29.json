@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-29",
+  "executive_summary": "Kgotla AI Consulting has several opportunities for engagement in the South African mining, energy, government, and enterprise sectors, with potential partnerships and tenders emerging. The South African government's investment in digital transformation and the extension of deadlines for comments on Market Code and Market Rules are key areas of focus. Giyani Metals' manganese project and Transition Ventures' AI-focused fund also present potential opportunities for collaboration.",
+  "top_opportunities": [
+    {
+      "title": "Giyani Metals Manganese Project",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10B",
+      "action": "Initiate contact with Giyani Metals to discuss potential AI consulting services for predictive maintenance and operational optimization",
+      "deadline": "2026-06-15"
+    },
+    {
+      "title": "NERSA Regulatory Compliance",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500k",
+      "action": "Research and prepare a proposal for regulatory compliance solutions for NERSA",
+      "deadline": "2026-06-22"
+    },
+    {
+      "title": "Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R24.6B",
+      "action": "Explore potential partnerships with Telkom and Microsoft for AI-powered solutions in the public sector",
+      "deadline": "2026-06-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to established consulting firms",
+      "mitigation": "Differentiate Kgotla AI Consulting's services through innovative AI solutions and partnerships with key players"
+    },
+    {
+      "title": "Regulatory Changes",
+      "sector": "government",
+      "impact": "Potential non-compliance with changing regulations, affecting Kgotla AI Consulting's pipeline",
+      "mitigation": "Monitor regulatory updates and adapt services to meet new requirements"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Giyani Metals",
+      "reason": "Potential partnership for AI consulting services in the mining sector",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Regulatory compliance opportunities in the energy sector",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Telkom",
+      "reason": "Potential partnership for AI-powered solutions in the public sector",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
