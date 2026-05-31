@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-31",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the South African mining and government sectors, with potential partnerships and tenders available for AI consulting services. The National Treasury's R 1.5 billion budget allocation for digital transformation initiatives presents a significant opportunity for Kgotla AI. Water security risks in the mining sector and regulatory changes in the government sector also require attention.",
+  "top_opportunities": [
+    {
+      "title": "Giyani Metals Manganese Project Partnership",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R 535M",
+      "action": "Reach out to Giyani Metals to discuss potential partnership opportunities",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "National Treasury Digital Transformation Tender",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R 1.5B",
+      "action": "Monitor the National Treasury website for tender announcements",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Eskom Pricing Strategy Optimization",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R 250M",
+      "action": "Contact Eskom to discuss potential AI consulting services for pricing strategy optimization",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Water Security Risks in Mining Sector",
+      "sector": "mining",
+      "impact": "Potential disruptions to mining operations and supply chains",
+      "mitigation": "Develop AI-powered water management solutions to help mining companies mitigate these risks"
+    },
+    {
+      "title": "Competition from Established Consultancy Firms",
+      "sector": "enterprise",
+      "impact": "Potential competition for AI consulting services from established firms like Alvarez & Marsal",
+      "mitigation": "Differentiate Kgotla AI's services through innovative AI solutions and strong industry partnerships"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Giyani Metals",
+      "reason": "Potential partnership opportunity for manganese project",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Monitor tender announcements for digital transformation initiatives",
+      "contact_approach": "website"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "Potential AI consulting services for pricing strategy optimization",
+      "contact_approach": "phone"
+    }
+  ]
+}
