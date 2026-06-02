@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-02",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the South African government and energy sectors, with a R1.5 billion budget allocation for digital transformation initiatives and a cut-price electricity tariff for the ferrochrome industry. The opening of Alvarez & Marsal's first African office also poses a competitive threat. Kgotla AI must prioritize outreach to key decision-makers in these sectors to capitalize on emerging opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Establish contact with National Treasury representatives to discuss potential AI consulting services",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "AI-Powered Energy Management Solutions",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to Glencore Merafe Chrome Venture to discuss potential partnerships",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "Smart City Infrastructure Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R250M",
+      "action": "Submit a proposal for the City of Johannesburg's technology upgrade project",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "mining",
+      "impact": "Potential loss of market share to Alvarez & Marsal",
+      "mitigation": "Develop strategic partnerships with local companies and emphasize Kgotla AI's unique value proposition"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delays in digital transformation initiatives due to evolving regulatory frameworks",
+      "mitigation": "Engage with government representatives to stay informed about regulatory developments and provide input on draft policies"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "Discuss potential AI consulting services for digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Glencore Merafe Chrome Venture",
+      "reason": "Explore partnerships for AI-powered energy management solutions",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "Submit a proposal for the technology upgrade project",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
