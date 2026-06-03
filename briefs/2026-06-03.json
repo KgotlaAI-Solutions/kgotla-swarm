@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-03",
+  "executive_summary": "Today's critical intelligence highlights potential opportunities in the mining, energy, and government sectors. The South African National Treasury has announced a budget of R 1.4 billion for digital transformation initiatives, while Eskom's amended Negotiated Pricing Agreements may create opportunities for AI-driven pricing and revenue management solutions. Additionally, Rio Tinto's lawsuit and Pan African Resources' investment in CuFe may lead to increased spending on environmental sustainability and technology upgrades.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Pricing and Revenue Management",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Prepare a proposal for AI-driven pricing and revenue management solutions",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.4B",
+      "action": "Submit an expression of interest for digital transformation initiatives",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Pan African Resources Technology Upgrades",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Research potential technology solutions for environmental sustainability and AI adoption",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Compliance",
+      "sector": "energy",
+      "impact": "Non-compliance may result in fines and reputational damage",
+      "mitigation": "Monitor NERSA's regulations and ensure AI solutions meet requirements"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Established players may have an advantage in securing contracts",
+      "mitigation": "Develop strategic partnerships and focus on niche areas"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "Amended Negotiated Pricing Agreements create opportunities for AI-driven pricing and revenue management solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiatives offer potential opportunities for AI consulting",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Pan African Resources",
+      "reason": "Investment in CuFe may lead to increased spending on technology upgrades and AI adoption",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
