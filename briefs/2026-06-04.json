@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-04",
+  "executive_summary": "Today's intelligence highlights potential opportunities in the mining, energy, government, and enterprise sectors, particularly with companies undergoing restructuring or seeking digital transformation. The South African government's R24.6 billion budget for digital transformation and IT upgrades presents a significant opportunity for Kgotla AI. Companies like Wesizwe Platinum, Afrimat, and Transnet may require AI-powered solutions to improve operations and reduce costs.",
+  "top_opportunities": [
+    {
+      "title": "Wesizwe Platinum Restructuring",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5M",
+      "action": "Reach out to Wesizwe Platinum's management team to discuss potential AI consulting services",
+      "deadline": "2026-06-18"
+    },
+    {
+      "title": "Transnet AI and Data Analytics Investment",
+      "sector": "enterprise",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Submit a proposal to Transnet outlining Kgotla AI's capabilities in AI and data analytics",
+      "deadline": "2026-07-01"
+    },
+    {
+      "title": "Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Register on the etenders.gov.za portal and monitor for upcoming tenders related to digital transformation",
+      "deadline": "2026-06-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Failed Industrial Policy",
+      "sector": "mining",
+      "impact": "Potential loss of business opportunities due to struggling companies like Afrimat",
+      "mitigation": "Diversify services to cater to companies in other sectors, such as energy and government"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Delays in tariff approvals and changes to market codes may impact business operations",
+      "mitigation": "Maintain close relationships with regulatory bodies like NERSA and stay informed about updates"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Wesizwe Platinum",
+      "reason": "Potential opportunity for AI consulting services due to restructuring",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Transnet",
+      "reason": "R100 million investment in AI and data analytics",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "New regulations requiring digital transformation and IT modernization",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
