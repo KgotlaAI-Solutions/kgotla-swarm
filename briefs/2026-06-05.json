@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-05",
+  "executive_summary": "Today's critical intelligence highlights key opportunities in the South African government and mining sectors, with a focus on digital transformation and regulatory compliance. The National Treasury's R1.3 billion budget for digital transformation initiatives and the City of Johannesburg's R100 million data analytics and AI services contract present significant opportunities for Kgotla AI. Additionally, the mining sector's regulatory changes in Mozambique and Zambia may require AI consulting services to help companies navigate these new environments.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit a proposal for data analytics and process automation services",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "City of Johannesburg Data Analytics and AI Services",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R100M",
+      "action": "Submit a bid for the panel of service providers",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Mozambique Mining Regulatory Compliance",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to mining companies operating in Mozambique to offer regulatory compliance services",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in Mozambique and Zambia",
+      "sector": "mining",
+      "impact": "Potential loss of business for mining companies that do not comply with new regulations",
+      "mitigation": "Offer regulatory compliance services to mining companies operating in these countries"
+    },
+    {
+      "title": "Unprotected Strike at Impala Rustenburg North Shaft",
+      "sector": "mining",
+      "impact": "Potential disruption to production and revenue for Implats",
+      "mitigation": "Offer predictive maintenance and AI-driven solutions to mitigate the impact of labor disruptions"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "3"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential opportunities for Kgotla AI",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "To inquire about the data analytics and AI services contract and submission process",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Implats",
+      "reason": "To offer predictive maintenance and AI-driven solutions to mitigate the impact of labor disruptions",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
