@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-06",
+  "executive_summary": "Today's intelligence highlights several opportunities for Kgotla AI in the South African mining, energy, government, and enterprise sectors, driven by digital transformation initiatives, regulatory changes, and infrastructure development. Key areas of focus include Wesizwe Platinum's operational efficiency needs, the South African government's R3.2 billion digital transformation budget, and potential partnerships with major banks and utility companies. The next 30 days will be critical in establishing relationships and positioning Kgotla AI for upcoming tenders and projects.",
+  "top_opportunities": [
+    {
+      "title": "Wesizwe Platinum Operational Efficiency",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.2M",
+      "action": "Prepare and submit a proposal for AI-driven operational efficiency solutions",
+      "deadline": "2026-06-20"
+    },
+    {
+      "title": "South African Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Establish contact with National Treasury and SITA to explore potential partnerships",
+      "deadline": "2026-06-30"
+    },
+    {
+      "title": "Smart City Initiative - City of Johannesburg",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R750k",
+      "action": "Research and prepare a proposal for AI-driven smart city solutions",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share and revenue",
+      "mitigation": "Develop a unique value proposition and establish strategic partnerships with key industry players"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "mining",
+      "impact": "Potential delays or cancellations of projects due to changes in regulations",
+      "mitigation": "Monitor regulatory updates and engage with industry associations to stay informed"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "Explore potential partnerships for digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "Discuss potential collaboration opportunities for AI-driven solutions",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Standard Bank",
+      "reason": "Establish contact for potential AI consulting services",
+      "contact_approach": "phone"
+    }
+  ]
+}
