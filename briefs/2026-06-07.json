@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-07",
+  "executive_summary": "Today's intelligence highlights multiple opportunities for Kgotla AI in the South African mining, energy, and government sectors, driven by regulatory changes, digital transformation initiatives, and potential partnerships with key companies. The firm must act swiftly to capitalize on these opportunities, particularly in the mining sector where companies are navigating new legislation and optimizing operations. Meanwhile, the energy and government sectors offer prospects for AI-driven solutions in supply chain management, labor relations, and digital transformation.",
+  "top_opportunities": [
+    {
+      "title": "Mozambique State Ownership Legislation",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Contact Sibanye-Stillwater and Anglo American Platinum to discuss potential AI consulting services for navigating the new legislation",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "South African Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Reach out to the Department of Public Service and Administration to explore potential partnerships and AI consulting services for their digital transformation strategy",
+      "deadline": "2027-03-31"
+    },
+    {
+      "title": "Zambia Copper Export Duty Suspension",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Contact Northam Platinum and Harmony Gold to discuss potential AI consulting services for optimizing supply chain management and logistics",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Wesizwe Platinum Staff Reduction",
+      "sector": "mining",
+      "impact": "Potential loss of business opportunities due to reduced operations and staff",
+      "mitigation": "Establish relationships with key decision-makers at Wesizwe Platinum and offer AI consulting services to optimize remaining operations"
+    },
+    {
+      "title": "Implats Contractor Strike",
+      "sector": "mining",
+      "impact": "Potential disruption to operations and revenue loss",
+      "mitigation": "Offer AI-powered labor relations and conflict management solutions to Implats"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "Discuss potential AI consulting services for navigating new legislation in Mozambique",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "Explore potential partnerships and AI consulting services for their digital transformation strategy",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Northam Platinum",
+      "reason": "Discuss potential AI consulting services for optimizing supply chain management and logistics",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
