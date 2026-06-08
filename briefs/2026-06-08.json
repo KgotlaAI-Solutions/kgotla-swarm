@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-08",
+  "executive_summary": "The South African government's digital transformation initiatives and the mining sector's potential for AI implementation in mineral cadastre management are key opportunities for Kgotla AI. Additionally, the energy sector's tariff applications and the government's regulatory framework for AI use in the public sector are critical areas to monitor.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a proposal for AI-powered solutions to support the government's digital transformation initiatives",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Mineral Cadastre Management",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Research potential clients and develop a tailored AI solution for mineral cadastre management",
+      "deadline": null
+    },
+    {
+      "title": "Tariff Application Optimization",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to licensed electricity distributors to offer AI-powered optimization solutions",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Contractor Strike at Rustenburg Shaft",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and decreased demand for AI-powered solutions",
+      "mitigation": "Monitor the situation and develop contingency plans to support affected clients"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential delays in tariff applications and uncertainty around AI implementation in the energy sector",
+      "mitigation": "Engage with NERSA and other regulatory bodies to stay informed about changes and updates"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "Potential opportunity for AI-powered IT infrastructure upgrade",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Stay informed about tariff applications and regulatory updates",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Omnia",
+      "reason": "Potential client for AI-powered predictive maintenance and supply chain optimization",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
