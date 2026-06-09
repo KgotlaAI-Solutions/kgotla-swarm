@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-09",
+  "executive_summary": "The South African government has signed an agreement for a new minerals licensing system and announced a R1.4 billion budget for digital transformation initiatives, creating opportunities for AI consulting firms. Additionally, various companies in the mining and energy sectors are planning expansions and upgrades, potentially requiring AI-driven solutions. Kgotla AI must act swiftly to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Minerals Licensing System Upgrade",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Contact the Department of Mineral Resources to discuss potential AI consulting services",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.4B",
+      "action": "Reach out to the National Treasury to explore potential collaboration opportunities",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "Omnia Expansion and Upgrade",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Contact Omnia's CEO to discuss potential AI consulting services",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Unprotected Strike at Impala Rustenburg North Shaft",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and revenue loss",
+      "mitigation": "Monitor the situation and be prepared to offer AI-driven solutions for operational optimization and risk management"
+    },
+    {
+      "title": "Regulatory Changes in Mozambique",
+      "sector": "mining",
+      "impact": "Potential increase in regulatory compliance costs for companies operating in the region",
+      "mitigation": "Stay up-to-date on regulatory changes and offer AI-powered solutions for compliance and mining optimization"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Department of Mineral Resources",
+      "reason": "To discuss potential AI consulting services for the new minerals licensing system",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To explore potential collaboration opportunities for digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Omnia",
+      "reason": "To discuss potential AI consulting services for their expansion and upgrade plans",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
