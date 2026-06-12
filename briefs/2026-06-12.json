@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-12",
+  "executive_summary": "The South African government has announced a budget of R 1.5 billion for digital transformation initiatives, creating opportunities for AI consulting firms. The mining sector is also ripe for AI adoption, with companies like Omnia and Salungano looking to optimize their operations. Kgotla AI must act quickly to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Prepare a proposal for digital transformation services",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "Omnia Operational Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500k",
+      "action": "Reach out to Omnia to discuss potential AI consulting services",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Vale Supply Chain Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R750k",
+      "action": "Research Vale's current supply chain operations and prepare a proposal",
+      "deadline": "2026-08-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Forced Mining Beneficiation Plan",
+      "sector": "mining",
+      "impact": "Potential regulatory changes could disrupt mining operations and affect Kgotla AI's pipeline",
+      "mitigation": "Monitor regulatory updates and adjust business strategy accordingly"
+    },
+    {
+      "title": "Competition from Established Consultancies",
+      "sector": "enterprise",
+      "impact": "Established consultancies may compete with Kgotla AI for government and enterprise contracts",
+      "mitigation": "Develop a unique value proposition and build relationships with key decision-makers"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential collaboration on digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Omnia",
+      "reason": "To discuss potential AI consulting services for operational optimization",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Vale",
+      "reason": "To discuss potential AI consulting services for supply chain optimization",
+      "contact_approach": "phone"
+    }
+  ]
+}
