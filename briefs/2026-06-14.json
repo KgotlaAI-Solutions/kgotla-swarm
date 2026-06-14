@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-14",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the energy and government sectors, with Eskom's R150 billion investment in renewable energy and grid modernization projects, and the South African National Treasury's R1.3 billion budget for digital transformation initiatives. These investments create potential for AI-based solutions and services. Additionally, various tenders and funding programs have been announced, presenting opportunities for Kgotla AI to provide AI consulting services.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Renewable Energy and Grid Modernization",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R150B",
+      "action": "Develop a proposal for AI-based predictive maintenance and energy forecasting solutions",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "City of Cape Town Smart Water Management System",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R100M",
+      "action": "Submit a tender for the smart water management system",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Develop a proposal for AI-based data analytics and cloud computing services",
+      "deadline": "2026-12-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Delays in implementation of AI-based solutions due to unclear regulations",
+      "mitigation": "Monitor regulatory developments and engage with industry associations to clarify requirements"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts due to established relationships between clients and competitors",
+      "mitigation": "Develop strategic partnerships and focus on niche areas of expertise"
+    }
+  ],
+  "sector_scores": {
+    "mining": "4",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential opportunities for AI-based solutions in renewable energy and grid modernization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Cape Town",
+      "reason": "To submit a tender for the smart water management system",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential opportunities for AI-based data analytics and cloud computing services",
+      "contact_approach": "email"
+    }
+  ]
+}
