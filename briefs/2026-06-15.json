@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-15",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the mining, energy, and government sectors, driven by technological upgrades, supply chain optimization, and digital transformation initiatives. The National Treasury's R 2.5 billion budget for digital transformation and the planned establishment of a national AI institute create a fertile ground for AI consulting services. However, geopolitical tensions and supply chain disruptions pose threats to the energy and mining sectors.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Opportunities in Government Sector",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R2.5B",
+      "action": "Prepare a proposal for AI-powered digital transformation services",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "AI Consulting Services for Mining Sector",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R1.5M",
+      "action": "Reach out to Sibanye-Stillwater and Anglo American Platinum to discuss potential collaboration",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Supply Chain Optimization in Energy Sector",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R5M",
+      "action": "Develop a supply chain optimization plan for Eskom and Rand Water",
+      "deadline": "2026-06-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Geopolitical Tensions and Supply Chain Disruptions",
+      "sector": "energy",
+      "impact": "Potential disruption to energy supply chains and increased costs",
+      "mitigation": "Develop contingency plans and diversify energy sources"
+    },
+    {
+      "title": "Decline in Gold Prices",
+      "sector": "mining",
+      "impact": "Reduced revenue for gold mining companies and potential decrease in demand for AI services",
+      "mitigation": "Help gold mining companies optimize their operations and reduce costs"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential collaboration on digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To explore potential opportunities for AI consulting services",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To discuss supply chain optimization and potential collaboration",
+      "contact_approach": "phone"
+    }
+  ]
+}
