@@ -1,0 +1,48 @@
+{
+  "date": "2026-06-18",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining and government sectors, with Sibanye-Stillwater engaging with the European Union on critical minerals policy and the National Treasury allocating R1.3 billion for digital transformation initiatives. These developments may create demand for AI solutions in supply chain management, predictive maintenance, and digital transformation.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Prepare a proposal for AI consulting services to support the National Treasury's digital transformation initiatives",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "Critical Minerals Policy",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500k",
+      "action": "Establish contact with Sibanye-Stillwater to discuss potential AI solutions for supply chain management and price security",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Lack of Regulatory Clarity",
+      "sector": "mining",
+      "impact": "May hinder the adoption of AI solutions in the mining sector due to uncertainty around regulatory requirements",
+      "mitigation": "Engage with industry associations and regulatory bodies to stay informed about potential changes and provide input on draft policies"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To discuss potential AI solutions for supply chain management and price security",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To express interest in providing AI consulting services for digital transformation initiatives",
+      "contact_approach": "phone"
+    }
+  ]
+}
