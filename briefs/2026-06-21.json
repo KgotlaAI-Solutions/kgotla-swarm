@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-21",
+  "executive_summary": "Today's intelligence highlights potential opportunities in the mining and government sectors, driven by proposed expansions and digital transformation initiatives. Kgotla AI must take action to capitalize on these opportunities, particularly in areas such as mine optimization, supply chain management, and digital transformation. The National Treasury's budget allocation for digital transformation initiatives presents a significant opportunity for AI consulting firms.",
+  "top_opportunities": [
+    {
+      "title": "Pan African Resources Underground Gold Expansion",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5M",
+      "action": "Contact Pan African Resources to offer AI consulting services for mine optimization and operational efficiency",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Submit a proposal to the National Treasury for AI consulting services in digital transformation",
+      "deadline": "2026-08-01"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in the Mining Sector",
+      "sector": "mining",
+      "impact": "Potential disruption to Kgotla AI's pipeline due to changes in regulatory requirements",
+      "mitigation": "Monitor regulatory updates and adjust AI consulting services to comply with new requirements"
+    },
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to established consulting firms",
+      "mitigation": "Develop strategic partnerships with key players in the industry and focus on niche AI consulting services"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Pan African Resources",
+      "reason": "To offer AI consulting services for mine optimization and operational efficiency",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To submit a proposal for AI consulting services in digital transformation",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Telkom",
+      "reason": "To explore potential collaborations or subcontracting opportunities in AI-powered solutions",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
