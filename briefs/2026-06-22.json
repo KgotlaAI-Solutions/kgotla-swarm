@@ -1,0 +1,59 @@
+{
+  "date": "2026-06-22",
+  "executive_summary": "The South African mining sector presents opportunities for AI-powered supply chain optimization and predictive maintenance due to the surge in export coal prices. The government sector also offers potential for AI-driven digital transformation, with a R23.7 billion budget allocation for the Department of Public Service and Administration. Kgotla AI should prioritize outreach to key companies and government agencies to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "AI-powered supply chain optimization for Exxaro Resources",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Exxaro Resources to discuss potential AI solutions for supply chain optimization",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "Digital transformation for the Department of Public Service and Administration",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Monitor etenders.gov.za for potential tender opportunities related to digital transformation",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Mozambique's new mining law",
+      "sector": "mining",
+      "impact": "Potential deterrence of foreign investment, affecting Kgotla AI's pipeline",
+      "mitigation": "Explore opportunities for partnership with local companies to improve operational efficiency and reduce costs"
+    },
+    {
+      "title": "Zimbabwe's planned ban on lithium concentrate exports",
+      "sector": "mining",
+      "impact": "Potential disruption to lithium supply chains, affecting Kgotla AI's clients",
+      "mitigation": "Develop AI-powered process optimization solutions to help lithium miners comply with the new regulations"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "4",
+    "government": "7",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Exxaro Resources",
+      "reason": "To discuss potential AI solutions for supply chain optimization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "To explore potential digital transformation opportunities",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To discuss potential AI solutions for IT infrastructure upgrade",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
