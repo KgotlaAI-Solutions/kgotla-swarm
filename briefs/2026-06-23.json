@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-23",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the mining, energy, and government sectors, driven by investments in digital transformation, AI adoption, and infrastructure development. The National Treasury's R1.3 billion budget allocation for digital transformation initiatives presents a substantial opportunity for Kgotla AI Consulting. Additionally, the planned ban on lithium concentrate exports in Zimbabwe and the UK's commitment to build critical minerals capacity may lead to increased demand for AI-driven technologies.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit an expression of interest for the digital transformation tender",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Lithium Processing Solutions",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Develop a proposal for AI-powered lithium processing solutions",
+      "deadline": "2027-01-31"
+    },
+    {
+      "title": "AI-Powered Trading and Risk Management",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R200M",
+      "action": "Attend the public hearing on July 23, 2026, to network with key stakeholders",
+      "deadline": "2026-07-23"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Eskom's Court Case",
+      "sector": "energy",
+      "impact": "Potential delays in technology upgrade projects",
+      "mitigation": "Diversify energy sector clients and monitor court case developments"
+    },
+    {
+      "title": "Zimbabwe's Lithium Export Ban",
+      "sector": "mining",
+      "impact": "Potential disruption to lithium supply chains",
+      "mitigation": "Develop alternative procurement strategies and monitor ban developments"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To inquire about potential technology upgrade projects and AI adoption plans",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To explore potential partnerships and collaborations on digital transformation projects",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
