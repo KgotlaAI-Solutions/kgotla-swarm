@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-24",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the energy and mining sectors, with Eskom's R150 billion investment in new power generation capacity and Sibanye-Stillwater's R20bn projects for platinum. The government sector also presents opportunities, with a R1.1 billion allocation for digital transformation initiatives. However, regulatory changes and liquidity concerns in the enterprise sector may pose challenges.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Power Generation Capacity Investment",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R150B",
+      "action": "Develop a tailored AI-powered grid management solution and schedule a meeting with Eskom representatives",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "Sibanye-Stillwater Platinum Projects",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R20B",
+      "action": "Research and prepare a proposal for AI consulting services to optimize production and maintenance processes",
+      "deadline": "2026-10-15"
+    },
+    {
+      "title": "City of Cape Town Smart Water Management System",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R120M",
+      "action": "Submit a tender for the smart water management system project",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in Mining Sector",
+      "sector": "mining",
+      "impact": "Potential delays or cancellations of projects due to regulatory changes",
+      "mitigation": "Monitor regulatory updates and engage with government agencies to stay informed and adapt to changes"
+    },
+    {
+      "title": "Liquidity Concerns in Enterprise Sector",
+      "sector": "enterprise",
+      "impact": "Potential reduced spending on technology and consulting services",
+      "mitigation": "Diversify client base and focus on high-priority projects with a strong potential for ROI"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "9",
+    "government": "6",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential collaboration on AI-powered grid management solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To explore opportunities for AI consulting services in platinum production and maintenance",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "To inquire about potential opportunities for AI consulting services in digital transformation initiatives",
+      "contact_approach": "phone"
+    }
+  ]
+}
