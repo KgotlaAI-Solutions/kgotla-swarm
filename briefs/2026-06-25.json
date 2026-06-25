@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-25",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the mining, energy, and government sectors, with multiple projects and initiatives presenting potential for AI consulting services. The South African National Treasury's R1.4 billion budget allocation for digital transformation initiatives and Eskom's negotiated pricing agreement are key developments. Kgotla AI must act swiftly to capitalize on these opportunities and establish relationships with key stakeholders.",
+  "top_opportunities": [
+    {
+      "title": "Sibanye-Stillwater Platinum Production Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R500M",
+      "action": "Reach out to Sibanye-Stillwater's operations team to discuss AI-powered production optimization solutions",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.4B",
+      "action": "Submit an expression of interest for the digital transformation initiative to the National Treasury",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "Eskom Negotiated Pricing Agreement",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R100M",
+      "action": "Analyze the invitation to comment on Eskom's negotiated pricing agreement and prepare a potential proposal",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty in Mining Sector",
+      "sector": "mining",
+      "impact": "Potential delays in project implementation and revenue losses due to unclear regulations",
+      "mitigation": "Engage with industry associations and regulatory bodies to stay informed about developments and provide input on proposed regulations"
+    },
+    {
+      "title": "Competition from Established Players in Energy Sector",
+      "sector": "energy",
+      "impact": "Difficulty in securing contracts and market share due to established relationships between incumbent players and clients",
+      "mitigation": "Develop strategic partnerships with smaller players and focus on niches where Kgotla AI can demonstrate unique value"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To discuss potential collaboration on platinum production optimization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To express interest in the digital transformation initiative",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To inquire about the negotiated pricing agreement and potential opportunities for AI consulting services",
+      "contact_approach": "phone"
+    }
+  ]
+}
