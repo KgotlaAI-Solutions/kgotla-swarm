@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-26",
+  "executive_summary": "Today's most critical intelligence highlights opportunities for AI consulting services in the South African mining and government sectors, with a focus on optimizing operations and supporting digital transformation initiatives. The National Treasury has allocated R 1.5 billion for digital transformation, and SITA has issued an RFI for an AI-powered chatbot. Additionally, the mining sector presents opportunities for AI consulting firms to support companies such as Sibanye-Stillwater and BHP in optimizing their operations.",
+  "top_opportunities": [
+    {
+      "title": "SITA AI-Powered Chatbot RFI",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Submit a proposal in response to the RFI",
+      "deadline": "2026-07-31"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a tailored proposal for AI and data analytics solutions",
+      "deadline": null
+    },
+    {
+      "title": "Sibanye-Stillwater Operational Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Establish communication with Sibanye-Stillwater's procurement team",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "AI-Powered Scam Threat",
+      "sector": "enterprise",
+      "impact": "Potential loss of client trust and revenue",
+      "mitigation": "Develop AI-powered security solutions to protect clients from such threats"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delays in AI adoption and digital transformation initiatives",
+      "mitigation": "Monitor regulatory updates and announcements from authorities"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "SITA",
+      "reason": "To discuss the AI-powered chatbot RFI and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To inquire about potential opportunities for AI and data analytics solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To establish communication with the procurement team and discuss potential collaboration opportunities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
