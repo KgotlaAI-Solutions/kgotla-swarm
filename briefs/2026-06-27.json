@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-27",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining and government sectors, with BHP's new CEO facing a demanding agenda and the South African National Treasury announcing a R 1.5 billion budget for digital transformation initiatives. These developments create potential openings for Kgotla AI to offer solutions for operational efficiency and digital transformation. The energy sector also presents opportunities, with NERSA issuing a consultation paper on electricity trading rules.",
+  "top_opportunities": [
+    {
+      "title": "BHP Operational Efficiency Opportunity",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to BHP's CEO to discuss AI solutions for operational efficiency",
+      "deadline": "2026-07-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Submit a proposal for digital transformation services to the National Treasury",
+      "deadline": "2026-08-01"
+    },
+    {
+      "title": "NERSA Electricity Trading Rules Consultation",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500k",
+      "action": "Submit written comments on the consultation paper",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Zimbabwe's Resource-Backed Financing Initiative",
+      "sector": "mining",
+      "impact": "Potential loss of market share if Kgotla AI does not adapt to the new financing model",
+      "mitigation": "Monitor the situation and adjust our business strategy to accommodate the new financing model"
+    },
+    {
+      "title": "Ghana's Increased Gold Output Share",
+      "sector": "mining",
+      "impact": "Potential disruption to supply chains and operations of mining companies",
+      "mitigation": "Offer AI solutions for supply chain optimization to affected mining companies"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "BHP",
+      "reason": "To discuss operational efficiency opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To submit a proposal for digital transformation services",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To submit written comments on the electricity trading rules consultation paper",
+      "contact_approach": "email"
+    }
+  ]
+}
