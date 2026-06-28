@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-28",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the government sector, particularly with the National Treasury's R3.9 billion allocation for digital transformation initiatives. The mining sector also presents opportunities, with BHP's new CEO facing a demanding agenda and Sibanye-Stillwater's focus on its existing portfolio. The energy sector has several open invitations for nominations and comments, but no specific tender opportunities are mentioned.",
+  "top_opportunities": [
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R3.9B",
+      "action": "Prepare a proposal for AI and data analytics solutions",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "SITA IT Infrastructure Upgrade",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R250M",
+      "action": "Submit a proposal for AI-powered cybersecurity solutions",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "BHP Cost Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R1B",
+      "action": "Reach out to BHP's new CEO to discuss AI-driven cost optimization solutions",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes",
+      "sector": "energy",
+      "impact": "Uncertainty around regulatory changes may affect Kgotla AI's pipeline",
+      "mitigation": "Monitor NERSA's announcements and adjust proposals accordingly"
+    },
+    {
+      "title": "Competition in the Government Sector",
+      "sector": "government",
+      "impact": "High competition for government contracts may reduce Kgotla AI's chances of success",
+      "mitigation": "Develop strong relationships with government officials and emphasize Kgotla AI's unique value proposition"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential partnerships",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To submit a proposal for the IT infrastructure upgrade and discuss AI-powered cybersecurity solutions",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "BHP",
+      "reason": "To discuss AI-driven cost optimization solutions and potential partnerships",
+      "contact_approach": "phone"
+    }
+  ]
+}
