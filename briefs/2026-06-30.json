@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-30",
+  "executive_summary": "Multiple opportunities have emerged in the South African mining, energy, government, and enterprise sectors for AI consulting firms. Key tenders and funding programs have been announced, with investments totaling billions of rand. Immediate action is required to capitalize on these prospects.",
+  "top_opportunities": [
+    {
+      "title": "Smart Water Management System Tender",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R100M",
+      "action": "Prepare and submit a proposal for the smart water management system tender",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "Government Digital Transformation Allocation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R3.6B",
+      "action": "Engage with National Treasury to explore potential projects and bidding opportunities",
+      "deadline": null
+    },
+    {
+      "title": "Eskom Renewable Energy Projects",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R150B",
+      "action": "Establish communication with Eskom to discuss potential collaboration on renewable energy projects",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Firms",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share and reduced revenue",
+      "mitigation": "Develop strategic partnerships and offer unique AI-driven solutions"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "mining",
+      "impact": "Potential delays in project implementation and revenue generation",
+      "mitigation": "Maintain close relationships with regulatory bodies and stay informed about policy changes"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "Explore collaboration opportunities on renewable energy projects",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Discuss potential projects and bidding opportunities for digital transformation initiatives",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "City of Cape Town",
+      "reason": "Submit a proposal for the smart water management system tender",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
