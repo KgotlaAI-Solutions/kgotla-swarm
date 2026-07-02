@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-02",
+  "executive_summary": "Today's intelligence highlights significant shifts in the mining and energy sectors, with opportunities for AI consulting in operational optimization and environmental monitoring. The government sector also presents potential opportunities for digital transformation and data protection compliance. The enterprise sector shows potential for AI adoption in technology procurement and process efficiency.",
+  "top_opportunities": [
+    {
+      "title": "Thungela Resources Production Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Thungela Resources to discuss AI-driven production efficiency solutions",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "NERSA Public Hearing Comments",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R1M",
+      "action": "Submit comments on Natural Gas Vehicles and Virtual Gas Network's maximum gas price applications",
+      "deadline": "2026-07-29"
+    },
+    {
+      "title": "SITA IT Infrastructure Upgrade",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R1.2B",
+      "action": "Monitor etenders.gov.za for potential AI-related tenders",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Congo's Cobalt Quotas Clawback",
+      "sector": "mining",
+      "impact": "Potential disruption to South African mining companies' supply chains",
+      "mitigation": "Develop AI-driven supply chain optimization and risk management solutions"
+    },
+    {
+      "title": "POPIA Compliance",
+      "sector": "government",
+      "impact": "Non-compliance may result in significant fines for companies",
+      "mitigation": "Offer AI-powered data protection and compliance solutions to affected companies"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "6",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Thungela Resources",
+      "reason": "Potential opportunity for AI-driven production efficiency solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Submit comments on maximum gas price applications",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "Monitor potential AI-related tenders",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
