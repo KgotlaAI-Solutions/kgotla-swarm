@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-05",
+  "executive_summary": "Today's intelligence highlights multiple opportunities for Kgotla AI in the South African mining, energy, government, and enterprise sectors, driven by growing demand for digital transformation and AI solutions. The government's planned expenditure of R 1.5 billion on digital transformation initiatives and Transnet's R 500 million budget for technology upgrades present significant prospects. However, firms must be vigilant about regulatory changes and tenders to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation of Government Sector",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Review government tenders and prepare proposal for digital transformation services",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "Technology Upgrades at Transnet",
+      "sector": "enterprise",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Develop proposal for AI-driven technology upgrades and submit by deadline",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "AI Opportunities in Mining Sector",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Engage with mining companies to offer AI-driven risk assessment and market analysis tools",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in Energy Sector",
+      "sector": "energy",
+      "impact": "Potential disruption to AI consulting projects due to changes in tariff settings and electricity regulation",
+      "mitigation": "Monitor NERSA announcements and adjust business strategies accordingly"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts due to competition from established companies like Dimension Data",
+      "mitigation": "Develop unique AI solutions and build strong relationships with potential clients"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transnet",
+      "reason": "To discuss potential partnership for technology upgrades",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "To inquire about digital transformation initiatives and potential tenders",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To stay updated on regulatory changes and potential opportunities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
