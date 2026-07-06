@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-06",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining, energy, and government sectors, with potential contracts and tenders worth millions of rands. The National Treasury's R24.6 billion allocation for digital transformation and ICT projects is a key focus area. Kgotla AI must act swiftly to capitalize on these opportunities and stay ahead of the competition.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Tender",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R24.6B",
+      "action": "Submit an expression of interest for the digital transformation tender",
+      "deadline": "2026-08-06"
+    },
+    {
+      "title": "Mozal Aluminium Smelter Sale",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1B",
+      "action": "Contact South32 to offer AI consulting services for due diligence and valuation",
+      "deadline": "2026-07-20"
+    },
+    {
+      "title": "NERSA Public Hearing",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500K",
+      "action": "Prepare a submission for the NERSA public hearing on Section 29 of the Electricity Regulation Act",
+      "deadline": "2026-07-25"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Kgotla AI may struggle to secure contracts against larger, more established competitors",
+      "mitigation": "Develop strategic partnerships and focus on niche AI services to differentiate ourselves"
+    },
+    {
+      "title": "Regulatory Changes",
+      "sector": "government",
+      "impact": "Kgotla AI must ensure compliance with changing regulations, such as POPIA",
+      "mitigation": "Stay up-to-date with regulatory changes and offer compliance services to clients"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential opportunities for digital transformation and ICT projects",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "South32",
+      "reason": "To offer AI consulting services for the Mozal Aluminium smelter sale",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To submit a proposal for the public hearing on Section 29 of the Electricity Regulation Act",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
