@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-08",
+  "executive_summary": "Today's intelligence highlights opportunities in the mining and government sectors, with Sibanye-Stillwater's potential gold acquisitions and the South African Government's digital transformation plans creating a fertile ground for AI consulting services. The energy sector also presents opportunities with NERSA's public hearing on draft rules and approved generation licences for solar PV projects. Meanwhile, the enterprise sector faces supply chain disruptions due to BHP's strike, potentially requiring AI-powered predictive maintenance or supply chain optimization services.",
+  "top_opportunities": [
+    {
+      "title": "Sibanye-Stillwater Gold Acquisitions",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Research and prepare a tailored AI solutions proposal for Sibanye-Stillwater's potential gold acquisitions",
+      "deadline": "2026-07-22"
+    },
+    {
+      "title": "NERSA Public Hearing on Draft Rules",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R1.5M",
+      "action": "Attend NERSA's public hearing and network with key stakeholders to explore potential AI-powered grid management and trading solutions",
+      "deadline": "2026-07-29"
+    },
+    {
+      "title": "South African Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to the South African Government's digital transformation team to discuss potential AI consulting services and collaboration opportunities",
+      "deadline": "2026-07-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Congo Cobalt Exporters' Technical Fault",
+      "sector": "mining",
+      "impact": "Potential losses for Congo cobalt exporters and related supply chain disruptions",
+      "mitigation": "Offer AI-powered supply chain management systems to mitigate potential losses and improve operational efficiency"
+    },
+    {
+      "title": "BHP Strike",
+      "sector": "enterprise",
+      "impact": "Potential supply chain disruptions and losses for BHP and related companies",
+      "mitigation": "Provide AI-powered predictive maintenance or supply chain optimization services to mitigate potential disruptions"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "6",
+    "government": "8",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "Potential gold acquisitions and AI consulting services opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Public hearing on draft rules and potential AI-powered grid management and trading solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "South African Government Digital Transformation Team",
+      "reason": "Digital transformation plans and potential AI consulting services opportunities",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
