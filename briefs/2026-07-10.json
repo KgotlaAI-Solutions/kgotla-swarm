@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-10",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining, energy, and government sectors, with potential contracts and partnerships worth millions of rands. The South African government's R1.3 billion allocation for digital transformation initiatives and Eskom's consideration of a tariff rebate for Transalloys are key developments. Kgotla AI must prioritize outreach to key entities, including Transnet, Eskom, and the National Treasury, to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Transnet TRIM Tender",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.1B",
+      "action": "Monitor Transnet's website for the re-released tender and prepare a proposal for AI consulting services",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "Eskom Tariff Rebate",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Reach out to Eskom to discuss potential AI-powered energy management and optimization services",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "National Digital Skills Development Program",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R500M",
+      "action": "Submit a proposal for the national digital skills development program before the deadline",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Irregularities in Transnet's TRIM Tender",
+      "sector": "mining",
+      "impact": "Potential loss of business due to irregularities in the tender process",
+      "mitigation": "Monitor Transnet's website for updates and ensure that Kgotla AI's proposal is compliant with all regulations"
+    },
+    {
+      "title": "Uncertainty in Eskom's Tariff Rebate",
+      "sector": "energy",
+      "impact": "Potential loss of business due to uncertainty in Eskom's tariff rebate decision",
+      "mitigation": "Maintain open communication with Eskom and be prepared to adapt to any changes in the tariff rebate decision"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transnet",
+      "reason": "To discuss potential AI consulting services for the TRIM tender",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential AI-powered energy management and optimization services",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential partnerships for digital transformation initiatives",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
