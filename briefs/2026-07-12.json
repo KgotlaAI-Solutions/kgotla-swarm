@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-12",
+  "executive_summary": "Today's intelligence highlights opportunities in the mining and energy sectors, with potential contracts and partnerships emerging. The government sector also shows promise, with a significant budget allocation for digital transformation initiatives. However, the enterprise sector remains quiet, with no specific opportunities or threats identified.",
+  "top_opportunities": [
+    {
+      "title": "Transnet Procurement Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.1bn",
+      "action": "Reach out to Transnet's procurement team to discuss potential AI-powered solutions",
+      "deadline": "2026-08-12"
+    },
+    {
+      "title": "Orion Minerals Operational Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R4.5bn",
+      "action": "Research Orion Minerals' operational needs and prepare a proposal for AI-powered optimization services",
+      "deadline": "2026-09-12"
+    },
+    {
+      "title": "Eskom Energy Consumption Optimization",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Contact Eskom's energy management team to discuss potential AI-powered energy consumption optimization solutions",
+      "deadline": "2026-08-26"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R3.9bn",
+      "action": "Prepare a proposal for AI-powered digital transformation services and submit it to the National Treasury",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential delays in implementation of AI-powered solutions due to regulatory changes",
+      "mitigation": "Monitor NERSA announcements and engage with industry stakeholders to stay informed"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts due to established relationships between large enterprises and existing service providers",
+      "mitigation": "Develop strategic partnerships and focus on niche areas where Kgotla AI can add unique value"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "4"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transnet",
+      "reason": "Potential procurement optimization opportunity",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Orion Minerals",
+      "reason": "Potential operational optimization opportunity",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "Potential energy consumption optimization opportunity",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiative",
+      "contact_approach": "email"
+    }
+  ]
+}
