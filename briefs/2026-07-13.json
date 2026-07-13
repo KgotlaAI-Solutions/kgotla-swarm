@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-13",
+  "executive_summary": "The South African mining, energy, government, and enterprise sectors present various opportunities for AI consulting firms, including optimizing procurement processes, restarting mining operations, and providing solutions for energy consumption and costs. The government sector is also investing in digital transformation initiatives, with a focus on AI and data analytics. Companies such as Transnet, Orion Minerals, and Eskom are potential clients for AI consulting services.",
+  "top_opportunities": [
+    {
+      "title": "Transnet Procurement Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.1bn",
+      "action": "Contact Transnet to offer AI-powered procurement process optimization services",
+      "deadline": "2026-08-13"
+    },
+    {
+      "title": "Orion Minerals Operational Optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R4.5bn",
+      "action": "Reach out to Orion Minerals to discuss AI-driven operational optimization for the Prieska Copper-Zinc Mine",
+      "deadline": "2026-09-13"
+    },
+    {
+      "title": "Eskom Energy Tariff Rebate",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R500 million",
+      "action": "Engage with Eskom to explore opportunities for AI-powered energy consumption optimization and tariff rebate applications",
+      "deadline": "2026-08-13"
+    },
+    {
+      "title": "Government Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3 billion",
+      "action": "Register on the etenders.gov.za portal to explore digital transformation tender opportunities",
+      "deadline": "2026-07-20"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Treasury Funding Freeze",
+      "sector": "enterprise",
+      "impact": "Potential delays in infrastructure maintenance and investment, impacting AI consulting firm pipeline",
+      "mitigation": "Offer cost-saving and process optimization solutions to affected companies"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential changes in energy regulations may impact AI consulting firm pipeline",
+      "mitigation": "Monitor regulatory developments and engage with relevant stakeholders to provide input"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Transnet",
+      "reason": "To offer AI-powered procurement process optimization services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Orion Minerals",
+      "reason": "To discuss AI-driven operational optimization for the Prieska Copper-Zinc Mine",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Eskom",
+      "reason": "To explore opportunities for AI-powered energy consumption optimization and tariff rebate applications",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To explore digital transformation tender opportunities",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
