@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-15",
+  "executive_summary": "Kgotla AI has identified key opportunities in the mining, energy, government, and enterprise sectors, with potential projects related to operational optimization, regulatory compliance, and digital transformation. The South African government's investment in digital transformation initiatives and the introduction of the National Data and Cloud Policy are expected to create new opportunities for AI consulting firms. De Beers' planned shutdown of its Venetia diamond mine and NERSA's Integrated Management System Readiness Programme are critical areas of focus.",
+  "top_opportunities": [
+    {
+      "title": "De Beers Venetia Mine Optimization",
+      "sector": "mining",
+      "urgency": "critical",
+      "value_estimate_zar": "R10M",
+      "action": "Contact De Beers to discuss AI-powered operational optimization solutions",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "NERSA Regulatory Compliance",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R2.5M",
+      "action": "Reach out to NERSA to offer regulatory compliance and management solutions",
+      "deadline": "2026-07-22"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Monitor etenders.gov.za for digital transformation tender opportunities",
+      "deadline": "2026-10-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Geopolitical Uncertainty",
+      "sector": "enterprise",
+      "impact": "Potential delay in AI adoption and implementation due to economic instability",
+      "mitigation": "Develop risk assessment and management services to help enterprises mitigate risks"
+    },
+    {
+      "title": "Regulatory Changes",
+      "sector": "government",
+      "impact": "Potential non-compliance with changing regulations, affecting Kgotla AI's pipeline",
+      "mitigation": "Closely monitor regulatory updates and adjust services accordingly"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "De Beers",
+      "reason": "Discuss AI-powered operational optimization solutions for Venetia mine shutdown",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Offer regulatory compliance and management solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Inquire about digital transformation tender opportunities",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
