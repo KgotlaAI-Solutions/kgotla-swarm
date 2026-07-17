@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-17",
+  "executive_summary": "Today's intelligence highlights opportunities in the mining and government sectors, with DRDGold's expansion and the National Treasury's digital transformation budget allocation presenting potential contracts for AI consulting services. The energy sector also shows promise, with NERSA's extended deadline for written comments on electricity trading rules and the potential for technology upgrades. The enterprise sector lacks specific open tenders, but companies like BHP Group and Anglo American may have upcoming technology upgrade projects.",
+  "top_opportunities": [
+    {
+      "title": "DRDGold Expansion Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R500k",
+      "action": "Reach out to DRDGold's operations team to discuss AI-powered optimization solutions",
+      "deadline": "2026-08-17"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Submit a proposal for digital transformation services to the National Treasury",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "NERSA Electricity Trading Optimization",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R200k",
+      "action": "Attend the stakeholder workshop and provide insights on AI-powered electricity trading optimization",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "US-Israeli Conflict with Iran",
+      "sector": "mining",
+      "impact": "Potential increase in fuel costs and logistics disruptions for mining companies",
+      "mitigation": "Develop AI-powered logistics optimization solutions to help mining companies reduce costs and improve supply chain resilience"
+    },
+    {
+      "title": "El Ni\u00f1o Drought",
+      "sector": "enterprise",
+      "impact": "Potential increase in food prices and demand for AI-powered agricultural solutions",
+      "mitigation": "Develop AI-powered crop yield prediction and supply chain optimization solutions for the agricultural sector"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "DRDGold Operations Team",
+      "reason": "Discuss AI-powered optimization solutions for their expansion project",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury Digital Transformation Team",
+      "reason": "Submit a proposal for digital transformation services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "NERSA Stakeholder Engagement Team",
+      "reason": "Attend the stakeholder workshop and provide insights on AI-powered electricity trading optimization",
+      "contact_approach": "phone"
+    }
+  ]
+}
