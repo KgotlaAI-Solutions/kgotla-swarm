@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-20",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the government and mining sectors, with the National Treasury's R 1.5 billion budget for digital transformation initiatives and DRDGOLD's R10bn expansion offering potential for AI consulting services. The energy sector also presents opportunities, with NERSA's extension of deadline for written comments on draft rules for electricity trading and the review of the methodology to approve maximum prices of gas in South Africa.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.5B",
+      "action": "Prepare a proposal for AI and data analytics services",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "DRDGOLD Expansion",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10B",
+      "action": "Reach out to DRDGOLD to discuss potential AI consulting services",
+      "deadline": null
+    },
+    {
+      "title": "NERSA Electricity Trading Rules",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "null",
+      "action": "Submit written comments on the draft rules",
+      "deadline": "2026-07-27"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share to established players",
+      "mitigation": "Develop strong relationships with key decision-makers and offer unique AI solutions"
+    },
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "energy",
+      "impact": "Potential delays or changes in regulatory requirements",
+      "mitigation": "Monitor regulatory updates and engage with NERSA and other stakeholders"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "7",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential AI and data analytics services for digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "DRDGOLD",
+      "reason": "To discuss potential AI consulting services for their expansion",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "To submit written comments on the draft rules for electricity trading",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
