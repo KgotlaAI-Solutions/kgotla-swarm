@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-21",
+  "executive_summary": "Today's intelligence highlights significant opportunities in the South African mining, energy, government, and enterprise sectors, particularly in AI-driven solutions for process optimization, digital transformation, and regulatory compliance. The government's budget allocation for digital transformation and the planned changes in mining and energy regulations are key areas of focus. Kgotla AI must act swiftly to capitalize on these opportunities and establish relationships with key stakeholders.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation of Government Services",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R1.3B",
+      "action": "Engage with National Treasury to explore potential partnerships and AI solutions for the digital transformation initiative",
+      "deadline": "2027-02-26"
+    },
+    {
+      "title": "Optimization of Mining Operations",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Reach out to DRDGold and Valterra Platinum to discuss potential AI consulting services for their operations",
+      "deadline": "2027-01-01"
+    },
+    {
+      "title": "Cape Town Port Concession",
+      "sector": "enterprise",
+      "urgency": "critical",
+      "value_estimate_zar": "R10B",
+      "action": "Monitor the Transnet tender portal for the request for proposals and prepare a bid for the concession",
+      "deadline": "2026-10-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in Mining Sector",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and revenue streams",
+      "mitigation": "Establish relationships with key stakeholders and engage in regulatory discussions to shape the outcome"
+    },
+    {
+      "title": "Interest Rate Hike",
+      "sector": "enterprise",
+      "impact": "Increased focus on cost savings and efficiency, potentially leading to reduced budgets for AI consulting services",
+      "mitigation": "Highlight the value of AI-driven solutions in achieving cost savings and process optimization"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential partnerships and AI solutions for the digital transformation initiative",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "DRDGold",
+      "reason": "To explore potential AI consulting services for their mining operations",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Transnet",
+      "reason": "To monitor the tender portal for the Cape Town port concession request for proposals",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
