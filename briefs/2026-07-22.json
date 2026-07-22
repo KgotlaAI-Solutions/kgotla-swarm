@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-22",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African government and mining sectors, with a focus on digital transformation initiatives and optimization of mining operations. The National Treasury's R1.3 billion budget allocation for digital transformation and Transnet's RFP for an AI-powered predictive maintenance system are key highlights. However, regulatory changes in the mining sector and competition from established players pose potential threats to Kgotla AI's pipeline.",
+  "top_opportunities": [
+    {
+      "title": "Transnet AI-powered predictive maintenance system",
+      "sector": "enterprise",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Assemble a proposal team to respond to the RFP",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "National Treasury digital transformation initiatives",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Establish contact with National Treasury procurement team",
+      "deadline": null
+    },
+    {
+      "title": "Sibanye-Stillwater operational optimization",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Sibanye-Stillwater's procurement team to discuss potential collaboration",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory changes in the mining sector",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and revenue",
+      "mitigation": "Monitor regulatory updates and adjust business development strategy accordingly"
+    },
+    {
+      "title": "Competition from established players",
+      "sector": "enterprise",
+      "impact": "Potential loss of market share and revenue",
+      "mitigation": "Develop a unique value proposition and build strong relationships with key decision-makers"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury procurement team",
+      "reason": "To establish a relationship and discuss potential collaboration on digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sibanye-Stillwater procurement team",
+      "reason": "To discuss potential collaboration on operational optimization",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Transnet procurement team",
+      "reason": "To confirm details of the AI-powered predictive maintenance system RFP",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
