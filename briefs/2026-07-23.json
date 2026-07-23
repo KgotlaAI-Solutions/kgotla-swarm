@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-23",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining and government sectors, with potential for AI consulting firms to offer optimization and compliance solutions. The National Treasury's planned budget of R 1.5 billion for digital transformation initiatives presents a significant opportunity for Kgotla AI. However, the crisis at Independent Media may also create an opportunity for digital transformation services.",
+  "top_opportunities": [
+    {
+      "title": "Richards Bay Coal Terminal Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Prepare a proposal for optimization and efficiency solutions",
+      "deadline": "2026-08-15"
+    },
+    {
+      "title": "National Treasury Digital Transformation",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.5B",
+      "action": "Develop a comprehensive digital transformation strategy",
+      "deadline": "2026-09-30"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Independent Media Crisis",
+      "sector": "enterprise",
+      "impact": "Potential loss of business due to reduced media budgets",
+      "mitigation": "Offer digital transformation services to help Independent Media reduce costs and explore new revenue streams"
+    },
+    {
+      "title": "Enforcement of Local Ownership Stake Requirement in DRC",
+      "sector": "mining",
+      "impact": "Potential compliance issues for mining companies operating in the DRC",
+      "mitigation": "Offer compliance and regulatory solutions to mining companies operating in the region"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation initiatives and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Northam Platinum",
+      "reason": "To explore potential opportunities for AI consulting services in supply chain optimization and predictive maintenance",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Independent Media",
+      "reason": "To offer digital transformation services and help them reduce costs and explore new revenue streams",
+      "contact_approach": "phone"
+    }
+  ]
+}
