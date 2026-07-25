@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-25",
+  "executive_summary": "Today's critical intelligence highlights opportunities in the mining, energy, and government sectors, with a focus on digital transformation, AI solutions, and public sector procurement. The South African National Treasury's R1.3 billion budget allocation for digital transformation initiatives and the City of Johannesburg's smart city strategy RFI are key developments. Kgotla AI must prioritize outreach to key entities, including Eskom, the City of Johannesburg, and the National Treasury, to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Eskom's Digital Transformation",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Submit a proposal for AI-powered predictive maintenance and process optimization services",
+      "deadline": "2026-10-31"
+    },
+    {
+      "title": "City of Johannesburg Smart City Strategy",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R5M",
+      "action": "Respond to the RFI with a proposed smart city strategy incorporating AI and IoT technologies",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R20M",
+      "action": "Establish a meeting with National Treasury representatives to discuss AI solutions for digital transformation initiatives",
+      "deadline": "2026-09-15"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Limited Public Sector Procurement Transparency",
+      "sector": "government",
+      "impact": "Difficulty in identifying and pursuing public sector procurement opportunities",
+      "mitigation": "Establish relationships with key government contacts and monitor tender portals regularly"
+    },
+    {
+      "title": "Competition from Established Consulting Firms",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises due to established relationships with competitors",
+      "mitigation": "Differentiate Kgotla AI's services through innovative AI solutions and targeted marketing efforts"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss AI-powered predictive maintenance and process optimization services",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Johannesburg",
+      "reason": "To respond to the smart city strategy RFI",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss AI solutions for digital transformation initiatives",
+      "contact_approach": "phone"
+    }
+  ]
+}
