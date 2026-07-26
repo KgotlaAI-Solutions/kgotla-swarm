@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-26",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the South African mining, energy, and government sectors, driven by digital transformation initiatives and regulatory developments. Anglo American's trimmed copper cost forecast and Gold Fields' 5-year wage deal may lead to increased investment in AI-powered solutions. The South African government's R24.6 billion budget allocation for digital transformation and ICT infrastructure development presents a substantial opportunity for AI consulting firms.",
+  "top_opportunities": [
+    {
+      "title": "NERSA Public Consultation on Market Inquiry Report",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R10M",
+      "action": "Submit input on the draft Market Inquiry Report",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "SITA National Data Analytics Platform RFI",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R50M",
+      "action": "Prepare a proposal for the national data analytics platform",
+      "deadline": "2026-09-15"
+    },
+    {
+      "title": "Department of Public Service and Administration AI-Powered Digital Transformation Project",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R120M",
+      "action": "Monitor the etenders.gov.za portal for the tender publication",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty Around AI Adoption",
+      "sector": "government",
+      "impact": "Delays in AI adoption and potential loss of business opportunities",
+      "mitigation": "Engage with government officials and industry associations to stay informed about regulatory developments and provide input on the proposed AI policy framework"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts and partnerships with large enterprises",
+      "mitigation": "Develop strategic partnerships with smaller and medium-sized enterprises, and focus on niche areas where Kgotla AI can offer unique value propositions"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "NERSA",
+      "reason": "To discuss the draft Market Inquiry Report and potential collaboration opportunities",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To inquire about the national data analytics platform RFI and submission process",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "To express interest in the AI-powered digital transformation project and request more information",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
