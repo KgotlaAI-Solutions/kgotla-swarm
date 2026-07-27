@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-27",
+  "executive_summary": "Today's intelligence highlights significant opportunities for Kgotla AI in the mining and government sectors, with potential for AI-driven solutions and digital transformation initiatives. The National Treasury's planned expenditure of R 3.8 billion on digital transformation initiatives and the draft policy on Artificial Intelligence in South Africa are key developments. Additionally, the mining sector presents opportunities for AI-driven productivity and efficiency solutions, particularly with Gold Fields' 5-year wage deal and AngloGold Ashanti's share buy-back plan.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiatives",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R3.8B",
+      "action": "Review and prepare a proposal for the National Treasury's digital transformation initiatives",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "AI-Driven Productivity Solutions",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to Gold Fields and AngloGold Ashanti to discuss potential AI-driven solutions",
+      "deadline": "2026-08-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Uncertainty",
+      "sector": "government",
+      "impact": "Potential delay in adoption of AI solutions due to unclear regulations",
+      "mitigation": "Engage with the Department of Communications and Digital Technologies to provide input on the draft policy on Artificial Intelligence"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "4",
+    "government": "8",
+    "enterprise": "3"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss potential AI solutions for digital transformation initiatives",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Gold Fields",
+      "reason": "To explore opportunities for AI-driven productivity and efficiency solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "Department of Communications and Digital Technologies",
+      "reason": "To provide input on the draft policy on Artificial Intelligence",
+      "contact_approach": "email"
+    }
+  ]
+}
