@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-05",
+  "executive_summary": "The South African government has announced plans to invest R24.6 billion in digital transformation initiatives, creating opportunities for AI consulting firms. The energy and mining sectors also present potential opportunities for AI adoption, with companies like Nedbank and MENAR Group considering technology upgrades. Kgotla AI must act quickly to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6B",
+      "action": "Submit proposal for digital transformation services",
+      "deadline": "2026-10-31"
+    },
+    {
+      "title": "MENAR Group Mineral Exports",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R500M",
+      "action": "Contact MENAR Group to discuss AI solutions for production optimization",
+      "deadline": null
+    },
+    {
+      "title": "Nedbank Technology Upgrades",
+      "sector": "enterprise",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Reach out to Nedbank to explore potential AI solutions",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Resistance from Farmers",
+      "sector": "mining",
+      "impact": "Potential delays or cancellations of mining projects",
+      "mitigation": "Engage with local communities and develop strategies to minimize land use"
+    },
+    {
+      "title": "Competition from Established Players",
+      "sector": "energy",
+      "impact": "Difficulty in securing contracts or partnerships",
+      "mitigation": "Develop strong relationships with key stakeholders and demonstrate the value of AI solutions"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "5",
+    "government": "8",
+    "enterprise": "7"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "MENAR Group",
+      "reason": "Potential opportunity for AI solutions in production optimization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Nedbank",
+      "reason": "Potential opportunity for AI solutions in technology upgrades",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "Department of Public Service and Administration",
+      "reason": "Submission of proposal for digital transformation services",
+      "contact_approach": "tender_portal"
+    }
+  ]
+}
