@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-08",
+  "executive_summary": "Today's critical intelligence highlights key opportunities in the mining and government sectors, with Thungela Resources expecting higher earnings and the National Treasury allocating R1.3 billion for digital transformation initiatives. The energy sector also presents opportunities, with NERSA issuing invitations for nominations and licence applications. The enterprise sector shows potential for AI consulting services, particularly in cloud-based solutions, due to the shift in investor focus towards internet stocks.",
+  "top_opportunities": [
+    {
+      "title": "Thungela Resources Financial Planning Optimization",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R5M",
+      "action": "Reach out to Thungela Resources to discuss AI-powered financial planning and optimization services",
+      "deadline": "2026-08-31"
+    },
+    {
+      "title": "National Treasury Digital Transformation Initiative",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.3B",
+      "action": "Review the National Treasury's digital transformation tender and prepare a proposal",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "NERSA Licence Applications",
+      "sector": "energy",
+      "urgency": "medium",
+      "value_estimate_zar": "R1M",
+      "action": "Monitor NERSA's website for licence application deadlines and prepare proposals",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Regulatory Changes in the DRC",
+      "sector": "mining",
+      "impact": "Potential disruption to mining operations and supply chains",
+      "mitigation": "Monitor regulatory updates and develop AI-powered supply chain optimization solutions"
+    },
+    {
+      "title": "Limited Tender Information",
+      "sector": "enterprise",
+      "impact": "Difficulty in identifying potential opportunities",
+      "mitigation": "Regularly check tender portals and company websites for updates"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Thungela Resources",
+      "reason": "Expected higher earnings and potential need for financial planning optimization",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Digital transformation initiative and potential tender opportunity",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "NERSA",
+      "reason": "Licence applications and potential opportunities",
+      "contact_approach": "phone"
+    }
+  ]
+}
