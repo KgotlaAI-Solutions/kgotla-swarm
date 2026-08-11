@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-11",
+  "executive_summary": "Multiple opportunities have emerged across the mining, energy, government, and enterprise sectors, with Eskom's R23.4 billion IT budget and the South African Government's R24.6 billion digital transformation budget presenting significant potential for AI consulting services. The City of Cape Town's R120 million smart water management tender and Transnet's R1.3 billion digital transformation partnership with Siemens also offer promising prospects.",
+  "top_opportunities": [
+    {
+      "title": "Eskom IT Systems Upgrade",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R23.4B",
+      "action": "Submit proposal for digital transformation and technology upgrade projects",
+      "deadline": "2027-03-31"
+    },
+    {
+      "title": "City of Cape Town Smart Water Management",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R120M",
+      "action": "Prepare and submit tender proposal",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "Government Digital Transformation",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6B",
+      "action": "Register on government procurement portals and monitor for AI-related project bids",
+      "deadline": "2027-03-31"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "NERSA Regulatory Review",
+      "sector": "energy",
+      "impact": "Potential changes to energy sector regulations may impact AI consulting projects",
+      "mitigation": "Monitor NERSA announcements and adjust project proposals accordingly"
+    },
+    {
+      "title": "Barrick Mining IPO Opposition",
+      "sector": "mining",
+      "impact": "Uncertainty around the IPO may affect mining sector investment and AI project demand",
+      "mitigation": "Monitor developments and adjust marketing strategies to target more stable clients"
+    }
+  ],
+  "sector_scores": {
+    "mining": "6",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential collaboration on IT systems upgrade projects",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "City of Cape Town",
+      "reason": "To inquire about the smart water management tender and potential AI consulting opportunities",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Transnet",
+      "reason": "To explore potential partnership opportunities for digital transformation projects",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
