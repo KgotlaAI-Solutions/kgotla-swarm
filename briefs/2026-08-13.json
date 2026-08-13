@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-13",
+  "executive_summary": "The South African government's allocation of R24.6 billion for digital transformation and ICT upgrades presents a significant opportunity for Kgotla AI. Additionally, legislative changes to tackle the illicit mining crisis and the introduction of new power tariffs create potential openings for AI consulting services in the mining and energy sectors. The technology and financial sectors are experiencing significant changes, which could lead to technology upgrade projects or digital transformation initiatives.",
+  "top_opportunities": [
+    {
+      "title": "Digital Transformation Opportunities",
+      "sector": "government",
+      "urgency": "high",
+      "value_estimate_zar": "R24.6B",
+      "action": "Prepare a proposal for digital transformation services",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "Mine Security and Monitoring",
+      "sector": "mining",
+      "urgency": "medium",
+      "value_estimate_zar": "R10M",
+      "action": "Develop a solutions brief for mine security and monitoring",
+      "deadline": "2026-08-27"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Data Fetch Errors",
+      "sector": "energy",
+      "impact": "Limited access to up-to-date information on open tenders and procurement notices",
+      "mitigation": "Explore alternative sources or contact organizations directly to stay informed"
+    },
+    {
+      "title": "Illicit Mining Crisis",
+      "sector": "mining",
+      "impact": "Potential reputational risk if Kgotla AI is not proactive in addressing the crisis",
+      "mitigation": "Develop solutions for mine security and monitoring, and engage with government and industry stakeholders"
+    }
+  ],
+  "sector_scores": {
+    "mining": "7",
+    "energy": "4",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "National Treasury",
+      "reason": "To discuss digital transformation opportunities and potential partnerships",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Sibanye-Stillwater",
+      "reason": "To explore potential opportunities for mine security and monitoring solutions",
+      "contact_approach": "linkedin"
+    },
+    {
+      "entity": "State Information Technology Agency (SITA)",
+      "reason": "To inquire about upcoming tenders for technology upgrade projects",
+      "contact_approach": "phone"
+    }
+  ]
+}
