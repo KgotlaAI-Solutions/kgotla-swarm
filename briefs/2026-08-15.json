@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-15",
+  "executive_summary": "The South African mining sector is facing production efficiency challenges and cost pressures, while the energy sector is experiencing a water crisis, creating opportunities for AI-driven solutions. The government sector is investing in digital transformation initiatives, and the enterprise sector is considering AI investments for economic growth. Kgotla AI must prioritize outreach to key players in these sectors to capitalize on emerging opportunities.",
+  "top_opportunities": [
+    {
+      "title": "AI-driven cost optimization for Exxaro Resources",
+      "sector": "mining",
+      "urgency": "high",
+      "value_estimate_zar": "R1.2M",
+      "action": "Contact Exxaro Resources to discuss AI-powered cost optimization solutions",
+      "deadline": "2026-08-22"
+    },
+    {
+      "title": "AI-powered water management for Rand Water",
+      "sector": "energy",
+      "urgency": "critical",
+      "value_estimate_zar": "R800k",
+      "action": "Reach out to Rand Water to offer AI-driven water management solutions",
+      "deadline": "2026-08-19"
+    },
+    {
+      "title": "Digital transformation partnership with National Treasury",
+      "sector": "government",
+      "urgency": "medium",
+      "value_estimate_zar": "R2.5M",
+      "action": "Research National Treasury's digital transformation initiatives and prepare a proposal for AI consulting services",
+      "deadline": "2026-09-01"
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Failed RSS feed and inaccessible NERSA portal",
+      "sector": "energy",
+      "impact": "Limited access to information on upcoming tenders and projects",
+      "mitigation": "Manually monitor etenders.gov.za and industry publications for updates"
+    },
+    {
+      "title": "Lack of specific company announcements in the enterprise sector",
+      "sector": "enterprise",
+      "impact": "Difficulty identifying potential clients and opportunities",
+      "mitigation": "Expand research to include industry publications and company websites"
+    }
+  ],
+  "sector_scores": {
+    "mining": "8",
+    "energy": "6",
+    "government": "9",
+    "enterprise": "5"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Exxaro Resources",
+      "reason": "Potential client for AI-driven cost optimization solutions",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "Rand Water",
+      "reason": "Potential client for AI-powered water management solutions",
+      "contact_approach": "phone"
+    },
+    {
+      "entity": "National Treasury",
+      "reason": "Potential partner for digital transformation initiatives",
+      "contact_approach": "linkedin"
+    }
+  ]
+}
