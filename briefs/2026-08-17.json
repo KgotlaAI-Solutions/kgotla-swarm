@@ -1,0 +1,67 @@
+{
+  "date": "2026-08-17",
+  "executive_summary": "The South African mining sector is facing production declines, while Eskom's investment in renewable energy presents opportunities for AI consulting firms. The government's digital transformation initiatives and State Information Technology Agency's technology upgrade project also create potential opportunities. Kgotla AI must act quickly to capitalize on these opportunities.",
+  "top_opportunities": [
+    {
+      "title": "Eskom Renewable Energy Investment",
+      "sector": "energy",
+      "urgency": "high",
+      "value_estimate_zar": "R150 billion",
+      "action": "Submit expression of interest for technology upgrade projects",
+      "deadline": "2026-12-31"
+    },
+    {
+      "title": "SITA Technology Upgrade Project",
+      "sector": "government",
+      "urgency": "critical",
+      "value_estimate_zar": "R1.2 billion",
+      "action": "Submit expression of interest before deadline",
+      "deadline": "2026-09-30"
+    },
+    {
+      "title": "Transnet Logistics Optimization",
+      "sector": "enterprise",
+      "urgency": "medium",
+      "value_estimate_zar": "R5 million",
+      "action": "Reach out to Transnet to discuss potential partnership opportunities",
+      "deadline": null
+    }
+  ],
+  "top_threats": [
+    {
+      "title": "Mining Production Decline",
+      "sector": "mining",
+      "impact": "Reduced demand for AI consulting services from mining companies",
+      "mitigation": "Diversify services to other sectors, such as energy and government"
+    },
+    {
+      "title": "Competition from Established Firms",
+      "sector": "enterprise",
+      "impact": "Difficulty in securing contracts with large enterprises",
+      "mitigation": "Develop strategic partnerships with smaller businesses and startups"
+    }
+  ],
+  "sector_scores": {
+    "mining": "4",
+    "energy": "8",
+    "government": "9",
+    "enterprise": "6"
+  },
+  "recommended_outreach": [
+    {
+      "entity": "Eskom",
+      "reason": "To discuss potential partnership opportunities for renewable energy investment",
+      "contact_approach": "email"
+    },
+    {
+      "entity": "SITA",
+      "reason": "To submit expression of interest for technology upgrade project",
+      "contact_approach": "tender_portal"
+    },
+    {
+      "entity": "Transnet",
+      "reason": "To discuss potential partnership opportunities for logistics optimization",
+      "contact_approach": "phone"
+    }
+  ]
+}
